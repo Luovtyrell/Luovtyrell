@@ -11,7 +11,7 @@
     <img alt="CSS3" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain.svg"/>
 </div>
 
-## Statistics
+## Stats
 <div align="center">
     <div style="display: flex; justify-content: center; max-width: 800px; margin: auto;">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luovtyrell&layout=compact&theme=radical" alt="Top Languages"/>
