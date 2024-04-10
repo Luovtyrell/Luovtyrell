@@ -4,3 +4,4 @@
 <div id="header" align="center">
   <img src="https://media1.tenor.com/m/nkYsPDoADwgAAAAC/computer-pixel-art.gif"/>
 </div>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Luovtyrell)](https://github.com/Luovtyrell/github-readme-stats)
