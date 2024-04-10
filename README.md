@@ -18,3 +18,13 @@
     </div>
 </div>
 
+## Contact me
+
+[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](http://discordapp.com/users/664163194989707308)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luciaorvilanova@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://es.linkedin.com/in/luc%C3%ADa-m%C2%AA-ordo%C3%B1ez-vilanova-47a49a187?original_referer=https%3A%2F%2Fwww.google.com%2F)
+
+
+
+
+
