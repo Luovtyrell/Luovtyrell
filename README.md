@@ -14,6 +14,7 @@
 ## Stats
 <div align="center">
     <div style="display: flex; justify-content: center; max-width: 800px; margin: auto;">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luovtyrell&layout=compact&theme=radical" alt="Top Languages"/>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luovtyrell&langs_count=8&layout=compact&theme=radical" alt="Top Languages"/>
     </div>
 </div>
+
