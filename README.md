@@ -1,9 +1,9 @@
 <div align="center">
-    <h1>Hello! I'm <a href="https://www.linkedin.com/in/luovtyrell">Lucía Mª 🌙</a></h1>
+    <h1>Hello! I'm <a href="https://www.linkedin.com/in/luovtyrell">Lucía Mª 🌹</a></h1>
     <img src="https://media1.tenor.com/m/nkYsPDoADwgAAAAC/computer-pixel-art.gif" alt="Computer Pixel Art"/>
 </div>
 
-## Languages and Tools
+## Languages and Tools 🔨
 <div align="center">
      <img alt="React" title="React" width="30px"
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
@@ -23,14 +23,14 @@
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
 </div>
 
-## Stats
+## Stats 📊
 <div align="center">
     <div style="display: flex; justify-content: center; max-width: 800px; margin: auto;">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luovtyrell&langs_count=8&layout=compact&theme=midnight-purple" alt="Top Languages"/>
     </div>
 </div>
 
-## Contact me
+## Contact me 📩
 
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](http://discordapp.com/users/664163194989707308)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luciaorvilanova@gmail.com)
