@@ -15,14 +15,15 @@
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain.svg" />
       <img alt="typescript" title="TypeScript" width="30px"
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-plain.svg" />
+    <img alt="sass" title="sass" width="30px"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" />
       <img alt="visualstudiocode" title="VisualStudioCode" width="30px"
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
       <img alt="git" title="git" width="30px"
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain.svg" />
       <img alt="github" title="GitHub" width="30px"
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
-    <img alt="sass" title="sass" width="30px"
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" />
+    
 </div>
 
 ## Stats 📊
