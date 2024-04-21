@@ -17,6 +17,8 @@
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-plain.svg" />
     <img alt="sass" title="sass" width="30px"
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" />
+    <img alt="bootstrap" title="bootstrap" width="30px"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />
       <img alt="visualstudiocode" title="VisualStudioCode" width="30px"
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
       <img alt="git" title="git" width="30px"
