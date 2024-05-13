@@ -1,6 +1,5 @@
 <div align="center">
-    <h1>Hello! I'm <a href="https://www.linkedin.com/in/luovtyrell">Lucía Mª 🌹</a></h1>
-    <img src="https://media1.tenor.com/m/nkYsPDoADwgAAAAC/computer-pixel-art.gif" alt="Computer Pixel Art"/>
+    <h1>Hello! I'm <a href="https://www.linkedin.com/in/luovtyrell">Lucía Mª </a></h1>
 </div>
 
 ## Languages and Tools 🔨
@@ -31,7 +30,7 @@
 ## Stats 📊
 <div align="center">
     <div style="display: flex; justify-content: center; max-width: 800px; margin: auto;">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luovtyrell&langs_count=8&layout=compact&theme=midnight-purple" alt="Top Languages"/>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luovtyrell&langs_count=8&layout=compact&theme=apprentice" alt="Top Languages"/>
     </div>
 </div>
 
