@@ -26,10 +26,12 @@
 
 ## Stats <img width="30" height="30" src="https://img.icons8.com/isometric/50/combo-chart.png" alt="combo-chart"/>
 <div align="center">
-    <div style="display: flex; justify-content: center; max-width: 800px; margin: auto;">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luovtyrell&langs_count=8&layout=compact&theme=panda" alt="Top Languages"/>
-    </div>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Luovtyrell&theme=panda" width="500"/> 
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Luovtyrell&theme=panda" width="240"/> <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luovtyrell&hide_progress=true&langs_count=8&layout=compact&theme=panda" width="300"/>
 </div>
+
+
 
 ## Contact me <img width="30" height="30" src="https://img.icons8.com/isometric/50/mailbox-closed-flag-up.png" alt="mailbox-closed-flag-up"/>
 
