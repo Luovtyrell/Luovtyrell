@@ -1,6 +1,6 @@
 <div align="center">
 <h1>Hi! I'm <a href="https://www.linkedin.com/in/luovtyrell">Lucía Mª ✨</a></h1></div>
-<img align='right' src="https://img.freepik.com/free-vector/linear-vintage-vaporwave-background_23-2148897798.jpg?w=1480&t=st=1715592032~exp=1715592632~hmac=39da8614bb88e34921d05466f91acb9be4cbf18c8a9f4c683e4b49f3f4abd406" width="400">
+<img align='right' src="https://img.freepik.com/free-vector/linear-vintage-vaporwave-background_23-2148897798.jpg?w=1480&t=st=1715592032~exp=1715592632~hmac=39da8614bb88e34921d05466f91acb9be4cbf18c8a9f4c683e4b49f3f4abd406" width="300">
 <div style="display: flex; justify-content: right;">
 <p> An optimistic and diligent front-end development student, dedicated to learning React while staying up-to-date with the latest technologies. I consider myself organized, and my motto is to maintain code as clean and orderly as possible. Each day, I prioritize dedicating time to practice and refine my skills in the technologies I've already learned. My favorite language of all time is JavaScript. 💛<br>
 
