@@ -24,6 +24,7 @@ Thanks to my 5 years of experience in the notarial sector, I have developed the 
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=git&theme=dark" width="36" height="36" alt="Git" /></a>
 <a href="github" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=github" width="36" height="36" alt="GitHub" /></a>
 <a href="https://www.npmjs.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=npm&theme=light" width="36" height="36" alt="npm" /></a>
+<a href="https://www.npmjs.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=nodejs&theme=light" width="36" height="36" alt="nodejs" /></a>
 <a href="https://wordpress.com/es/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=wordpress&theme=light" width="36" height="36" alt="wordpress" /></a>
 
 
