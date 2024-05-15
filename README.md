@@ -31,7 +31,7 @@ Thanks to my 5 years of experience in the notarial sector, I have developed the 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Luovtyrell&theme=panda" width="500"/> 
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Luovtyrell&theme=panda" width="240"/> <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luovtyrell&hide_progress=true&langs_count=8&layout=compact&theme=panda" width="300"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luovtyrell&langs_count=8&layout=compact&theme=panda" width="300"/>
 </div>
 
 
