@@ -8,6 +8,18 @@ I am an optimistic and diligent front-end development student, dedicated to lear
 Thanks to my 5 years of experience in the notarial sector, I have developed the ability to work under pressure and pay great attention to detail, as there is no room for errors in that field. Despite the pressure, I always maintain a sense of joy and warmth.
 
 **Coding with heart! 🫀💻**
+<br>
+
+## About Me:
+- 🛠 I'm open to exploring and learning new frameworks and technologies.
+- 🧰 Striving to perfect my coding skills by crafting clean, efficient code that prioritizes simplicity and minimizes redundancy.
+- 🧩 I enjoy solving puzzles and coding challenges.
+- 🌐 I'm interested in UI/UX design principles, trying to learn by myself.
+- 🖼️ I enjoy Baroque art and architecture, especially Catalan Romanesque architecture.
+- 📚 The literature of the "Generación del 98" is my favorite.
+- 🍽️ I have a deep appreciation for traditional Spanish and Catalan haute cuisine.
+- 🥸 I love cinema and video games.
+- 🐸 I really love spending time in nature, and searching for amphibians.
 </p> 
 <br>
 
