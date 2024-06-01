@@ -8,7 +8,7 @@ I am an optimistic and diligent front-end development student, dedicated to lear
 Thanks to my 5 years of experience in the notarial sector, I have developed the ability to work under pressure and pay great attention to detail, as there is no room for errors in that field. Despite the pressure, I always maintain a sense of joy and warmth.
 
 **Coding with heart! 🫀💻**
-<br>
+<br><br>
 
 ## About Me:
 - 🛠 I'm open to exploring and learning new frameworks and technologies.
