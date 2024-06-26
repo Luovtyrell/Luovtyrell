@@ -35,6 +35,8 @@ Thanks to my 5 years of experience in the notarial sector, I have developed the 
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=git&theme=dark" width="36" height="36" alt="Git" /></a>
 <a href="https://www.npmjs.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=npm&theme=dark" width="36" height="36" alt="npm" /></a>
 <a href="https://jestjs.io/es-ES/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=jest&theme=dark" width="36" height="36" alt="jest" /></a>
+<a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=vite&theme=light" width="36" height="36" alt="vite" /></a>
+<a href="https://vitest.dev/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=vitest&theme=light" width="36" height="36" alt="vite" /></a>
 <a href="https://figma.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=figma&theme=dark" width="36" height="36" alt="figma" /></a>
 <a href="https://wordpress.com/es/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=wordpress&theme=dark" width="36" height="36" alt="wordpress" /></a>
 </div>
