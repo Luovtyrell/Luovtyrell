@@ -1,6 +1,6 @@
 <div align="center">
   <img src="https://i.postimg.cc/HHJrDrNG/Captura-de-pantalla-2024-08-02-a-las-15-23-09.png">
-  <h1>Hi! I'm <a href="https://www.linkedin.com/in/luovtyrell">Lucía✨</a></h1>
+  <h1>Hello World!<a href="https://www.linkedin.com/in/luovtyrell">✨</a></h1>
   <img align='right' src="https://i.postimg.cc/g2hHQs1G/Captura-de-pantalla-2024-08-02-a-las-15-31-40.png" width="300">
 </div>
 
