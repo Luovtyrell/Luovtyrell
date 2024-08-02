@@ -1,6 +1,6 @@
 <div align="center">
   <img src="https://i.postimg.cc/HHJrDrNG/Captura-de-pantalla-2024-08-02-a-las-15-23-09.png">
- <a href="https://www.linkedin.com/in/luovtyrell"> <h1> Hello World! ✨ </h1> </a>
+ <h1> <a href="https://www.linkedin.com/in/luovtyrell/"> Hello World!</a> ✨</h1>
   <img align='right' src="https://i.postimg.cc/g2hHQs1G/Captura-de-pantalla-2024-08-02-a-las-15-31-40.png" width="300">
 </div>
 
