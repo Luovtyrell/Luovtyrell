@@ -1,6 +1,7 @@
 <div align="center">
-  <h1>Hi! I'm <a href="https://www.linkedin.com/in/luovtyrell">Lucía Mª ✨</a></h1>
-  <img align='right' src="https://img.freepik.com/free-vector/linear-vintage-vaporwave-background_23-2148897798.jpg?w=1480&t=st=1715592032~exp=1715592632~hmac=39da8614bb88e34921d05466f91acb9be4cbf18c8a9f4c683e4b49f3f4abd406" width="300">
+  <img src="https://i.postimg.cc/HHJrDrNG/Captura-de-pantalla-2024-08-02-a-las-15-23-09.png">
+  <h1>Hi! I'm <a href="https://www.linkedin.com/in/luovtyrell">Lucía✨</a></h1>
+  <img align='right' src="https://i.postimg.cc/g2hHQs1G/Captura-de-pantalla-2024-08-02-a-las-15-31-40.png" width="300">
 </div>
 
 <p align="justify">
@@ -58,13 +59,13 @@ https://github.com/Luovtyrell/Star-Wars.git
 <table align="center">
   <tr>
     <td align="center">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Luovtyrell&theme=nightowl&include_all_commits=true" width="700"/>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Luovtyrell&theme=onedark&include_all_commits=true" width="700"/>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Luovtyrell&theme=nightowl&include_all_commits=true&" width="300"/>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luovtyrell&langs_count=8&layout=donut&theme=nightowl&hide_border=true&include_all_commits=true" width="285"/>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Luovtyrell&theme=onedark&include_all_commits=true&" width="300"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luovtyrell&langs_count=8&layout=donut&theme=onedark&hide_border=true&include_all_commits=true" width="285"/>
     </td>
   </tr>
 </table>
