@@ -1,10 +1,10 @@
 <div align="center">
   <img src="https://i.postimg.cc/HHJrDrNG/Captura-de-pantalla-2024-08-02-a-las-15-23-09.png">
 <h1> <a href="https://www.linkedin.com/in/luovtyrell/"> Hello World!</a> ✨</h1>
-  <img align='right' src="https://i.postimg.cc/HWNGXXcQ/Captura-de-pantalla-2024-08-05-a-las-18-19-17.png" width="300">
 </div>
 
 <p align="justify">
+   <img align='right' src="https://i.postimg.cc/HWNGXXcQ/Captura-de-pantalla-2024-08-05-a-las-18-19-17.png" width="300">
 I am an optimistic and diligent front-end development student, dedicated to learning React while staying up-to-date with the latest technologies. I consider myself organized, and my motto is to maintain code as clean, SOLID, dynamic and orderly as possible. Each day, I prioritize dedicating time to practice and refine my skills in the technologies I've already learned. My favorite language of all time is JavaScript. <br><br>
 Thanks to my 5 years of experience in the notarial sector, I have developed the ability to work under pressure and pay great attention to detail, as there is no room for errors in that field. Despite the pressure, I always maintain a sense of joy and warmth.
 
