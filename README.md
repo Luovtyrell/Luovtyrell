@@ -1,10 +1,10 @@
 <div align="center">
-  <img src="https://i.postimg.cc/HHJrDrNG/Captura-de-pantalla-2024-08-02-a-las-15-23-09.png">
+  <img src="https://i.postimg.cc/HHJrDrNG/Captura-de-pantalla-2024-08-02-a-las-15-23-09.png" alt="headerByLuciaOrdoñez">
 <h1> <a href="https://www.linkedin.com/in/luovtyrell/"> Hello World!</a> ✨</h1>
 </div>
 
 <p align="justify">
-   <img align='right' src="https://i.postimg.cc/HWNGXXcQ/Captura-de-pantalla-2024-08-05-a-las-18-19-17.png" width="300">
+   <img align='right' src="https://i.postimg.cc/HWNGXXcQ/Captura-de-pantalla-2024-08-05-a-las-18-19-17.png" width="300" alt="flchaVerdeByLuciaOrdoñez">
 I am an optimistic and diligent front-end development student, dedicated to learning React while staying up-to-date with the latest technologies. I consider myself organized, and my motto is to maintain code as clean, SOLID, dynamic and orderly as possible. Each day, I prioritize dedicating time to practice and refine my skills in the technologies I've already learned. My favorite language of all time is JavaScript. <br><br>
 Thanks to my 5 years of experience in the notarial sector, I have developed the ability to work under pressure and pay great attention to detail, as there is no room for errors in that field. Despite the pressure, I always maintain a sense of joy and warmth.
 
@@ -43,7 +43,7 @@ Thanks to my 5 years of experience in the notarial sector, I have developed the 
 </div>
 <br>
 
-## Now working on...
+## 🚧 Currently Working On 🚧
 <a href='https://github.com/Luovtyrell/Star-Wars.git' target='_blank'>
   <img width='20%' src='https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Star_Wars_Logo.svg/2560px-Star_Wars_Logo.svg.png' alt='https://github.com/Luovtyrell/Star-Wars.git' />
 </a>
@@ -51,9 +51,35 @@ Thanks to my 5 years of experience in the notarial sector, I have developed the 
 https://github.com/Luovtyrell/Star-Wars.git
 <br><br>
 
-## Projects
-🚧 *Currently Building* 🚧
+| **Aspect**               | **Description**                                                                                                 |
+|--------------------------|-----------------------------------------------------------------------------------------------------------------|
+| **Project Overview**     | Developing a web app to display Star Wars starships using SWAPI.                                               |
+| **Key Technologies**     | React, Context, React Router, JSON-server-auth, firebase, SWAPI, Tailwind CSS.                                  |
+| **Main Features**        | List starships, show detailed info, handle pagination, authentication, and styling.                             |
+| **Current Focus**        | Implementing dynamic loading of starships, user authentication, and integrating UI elements.                    |
+
+
 <br><br>
+
+
+---
+
+## 🎬 **Coming Soon: Your Ideal Movie Recommender!** 🎬
+
+I’m thrilled to announce my very own personal project: **Your Next Favorite Movie** is just around the corner with my innovative recommendation app. Get ready for a cinematic journey like never before!
+
+| **What I Offer**               | **Details**                                                                                   |
+|--------------------------------|-----------------------------------------------------------------------------------------------|
+| **Tailored Recommendations**   | Answer a few questions, and I’ll use an AI API to suggest movies that perfectly match your tastes. Think of me as your personal **Director’s Cut** of movie picks! |
+| **Smart History**              | Keep track of all the films you’ve watched, so my future recommendations are always a **Box Office Hit**. It’s like having a personal **film reel** of your movie journey! |
+| **Cutting-Edge Technology**    | Experience the latest tech for delivering precise and thrilling suggestions. It’s like having a **Behind-the-Scenes** pass to uncover your next favorite movie! |
+| **User-Friendly Interface**    | Enjoy a seamless and easy-to-navigate platform. Think of it as your own **Red Carpet** experience in the world of movie recommendations! |
+
+
+Prepare for a cinematic adventure that’s just as thrilling as the **"Greatest Showman"** or as mind-bending as the **"Matrix"**. Stay tuned for the premiere of your ultimate movie companion! 🍿🎥
+
+---
+<br> <br>
 
 ## Stats
 <table align="center">
@@ -69,11 +95,18 @@ https://github.com/Luovtyrell/Star-Wars.git
     </td>
   </tr>
 </table>
-<br>
+<br><br>
 
-## Contact me
+## Feel free to contact me
 <div>
-<a href="http://discordapp.com/users/664163194989707308" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-<a href="mailto:luciaorvilanova@gmail.com" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
-<a href="https://es.linkedin.com/in/luc%C3%ADa-m%C2%AA-ordo%C3%B1ez-vilanova-47a49a187?original_referer=https%3A%2F%2Fwww.google.com%2F" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:luciaorvilanova@gmail.com" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=fff&style=flat-square" alt="Gmail" /></a>
+<a href="https://es.linkedin.com/in/luc%C3%ADa-m%C2%AA-ordo%C3%B1ez-vilanova-47a49a187?original_referer=https%3A%2F%2Fwww.google.com%2F" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=flat-square" alt="LinkedIn" /></a>
+<a href="https://t.me/luovtyrell" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Telegram-26A5E4?logo=telegram&logoColor=fff&style=flat-square" alt="Telegram" /></a>
+<a href="http://discordapp.com/users/664163194989707308" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=fff&style=flat-square" alt="Discord" /></a>
 </div>
+
+---
+<h3 align="center">Explore My Pinned Projects Below!</h3>
+<br>
+<p align="center">
+<a href='https://postimg.cc/9zGRtVcK' target='_blank'><img src='https://i.postimg.cc/9zGRtVcK/Captura-de-pantalla-2024-08-05-a-las-18-55-22.png' border='0' alt='flchaVerdeByLuciaOrdoñez'/></a> </p>
