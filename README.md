@@ -82,7 +82,7 @@ https://github.com/Luovtyrell/Star-Wars.git
 | - Implement a "view more" button to load additional starships.<br> |
  | - Modernize the site’s design to closely match the official Star Wars website. |
  | - Implement a welcome page with a button to access the main starship list.<br>- Use React routing for navigation.<br>- Create a separate navigation bar component if needed. |
-| - Create a fake backend with JSON Server Auth or Firebase for user management.<br>- Implement Login and Register screens.<br>- Ensure users cannot register with the same email and are logged in immediately after registration. |
+| - Create a fake backend with Firebase for user management.<br>- Implement Login and Register screens.<br>- Ensure users cannot register with the same email and are logged in immediately after registration. |
 | - Protect routes so that only registered users can view the starship list.<br>- Redirect unauthenticated users to the login page and then back to the originally requested page upon successful login. |
 | - Enhance the starship detail view by displaying pilot cards.<br>- Create a new component for displaying pilot information and style it appropriately. |
 
