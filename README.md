@@ -79,17 +79,20 @@ https://github.com/Luovtyrell/Star-Wars.git
 
 ### 🚀 Main Features 
 
+## ✨ Main Features
+
 | **Feature** | **Description** |
 |-------------|-----------------|
 | **Starship List** | Displayed a list of starships on the main screen, showing essential data: Name and Model of each starship. |
 | **Starship Detail View** | Created a detailed view for each starship. Users can access details by clicking on a starship in the list. |
-| **Load More** | Implemented a "view more" button to load additional starships and pilots |
+| **Load More** | Implemented a "view more" button to load additional starships and pilots. |
 | **Modern Design** | Modernized the site’s design to closely match the official Star Wars website. |
 | **Welcome Page** | Implemented a welcome page with a button to access the main starship list and pilots, using React routing for navigation. |
 | **User Management** | Developed a fake backend with Firebase for user management. Implemented Login and Register screens, ensuring users cannot register with the same email and are logged in immediately after registration. |
 | **Route Protection** | Protected routes so that only registered users can view the starship list. Redirected unauthenticated users to the login page and then back to the originally requested page upon successful login. |
 | **Pilot Detail View** | Enhanced the starship detail view by displaying pilot detail cards. Created a new component for displaying pilot detailed info and styled it appropriately. |
-| **Film and pilots Appearances** | Added information on which pilots have piloted each starship and in which films the starships appeared, including photos of the pilots and film scenes. |
+| **Film and Pilots Appearances** | Added information on which pilots have piloted each starship and in which films the starships appeared, including photos of the pilots and film scenes. |
+| **Context & API Integration** | Utilized Context for state management and made API calls to the Star Wars API for retrieving data. |
 
 
 <br><br>
