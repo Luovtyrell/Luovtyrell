@@ -77,7 +77,7 @@ https://github.com/Luovtyrell/Star-Wars.git
 
 **Main Features** |
 --------------------|
- | - Display a list of starships on the main screen.<br>- Show essential data: Name and Model of each starship.<br>- Use Storybook for component development. |
+ | - Display a list of starships on the main screen.<br>- Show essential data: Name and Model of each starship.<br>|
 | - Create a detailed view for each starship.<br>- Users can access details by clicking on a starship in the list. |
 | - Implement a "view more" button to load additional starships.<br>- Ensure API calls are made from Context or Redux.<br>- Optional: Implement infinite scroll. |
  | - Modernize the site’s design to closely match the official Star Wars website. |
