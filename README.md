@@ -79,7 +79,7 @@ https://github.com/Luovtyrell/Star-Wars.git
 --------------------|
  | - Display a list of starships on the main screen.<br>- Show essential data: Name and Model of each starship.<br>|
 | - Create a detailed view for each starship.<br>- Users can access details by clicking on a starship in the list. |
-| - Implement a "view more" button to load additional starships.<br>- Ensure API calls are made from Context or Redux.<br>- Optional: Implement infinite scroll. |
+| - Implement a "view more" button to load additional starships.<br> |
  | - Modernize the site’s design to closely match the official Star Wars website. |
  | - Implement a welcome page with a button to access the main starship list.<br>- Use React routing for navigation.<br>- Create a separate navigation bar component if needed. |
 | - Create a fake backend with JSON Server Auth or Firebase for user management.<br>- Implement Login and Register screens.<br>- Ensure users cannot register with the same email and are logged in immediately after registration. |
