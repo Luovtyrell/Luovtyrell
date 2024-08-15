@@ -41,26 +41,7 @@ Thanks to my 5 years of experience in the notarial sector, I have developed the 
 <a href="https://vitest.dev/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=vitest&theme=light" width="36" height="36" alt="vitest" /></a>
 <a href="https://wordpress.com/es/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=wordpress&theme=dark" width="36" height="36" alt="wordpress" /></a>
 </div>
-<br>
-
-## 🚧 Currently Working On 🚧
-<a href='https://github.com/Luovtyrell/Star-Wars.git' target='_blank'>
-  <img width='20%' src='https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Star_Wars_Logo.svg/2560px-Star_Wars_Logo.svg.png' alt='https://github.com/Luovtyrell/Star-Wars.git' />
-</a>
-<br>
-https://github.com/Luovtyrell/Star-Wars.git
 <br><br>
-
-| **Aspect**               | **Description**                                                                                                 |
-|--------------------------|-----------------------------------------------------------------------------------------------------------------|
-| **Project Overview**     | Developing a web app to display Star Wars starships using SWAPI.                                               |
-| **Key Technologies**     | React, Context, React Router, JSON-server-auth, firebase, SWAPI, Tailwind CSS.                                  |
-| **Main Features**        | List starships, show detailed info, handle pagination, authentication, and styling.                             |
-| **Current Focus**        | Implementing dynamic loading of starships, user authentication, and integrating UI elements.                    |
-
-
-<br><br>
-
 
 ---
 
@@ -80,6 +61,47 @@ Prepare for a cinematic adventure that’s just as thrilling as the **"Greatest 
 
 ---
 <br> <br>
+
+## 🆕 My Latest React Project
+<a href='https://github.com/Luovtyrell/Star-Wars.git' target='_blank'>
+  <img width='20%' src='https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Star_Wars_Logo.svg/2560px-Star_Wars_Logo.svg.png' alt='https://github.com/Luovtyrell/Star-Wars.git' />
+</a>
+<br>
+https://github.com/Luovtyrell/Star-Wars.git
+<br><br>
+
+| **Aspect**               | **Description**                                                                                                 |
+|--------------------------|-----------------------------------------------------------------------------------------------------------------|
+| **Project Overview**     | Developing a web app to display Star Wars starships, pilots and gilms using SWAPI.                              |
+| **Key Technologies**     | React, Context, Axios, React Router, firebase, SWAPI, Tailwind, Protected Routes.                               |
+
+**Main Features** |
+--------------------|
+ | - Display a list of starships on the main screen.<br>- Show essential data: Name and Model of each starship.<br>- Use Storybook for component development. |
+| - Create a detailed view for each starship.<br>- Users can access details by clicking on a starship in the list. |
+| - Implement a "view more" button to load additional starships.<br>- Ensure API calls are made from Context or Redux.<br>- Optional: Implement infinite scroll. |
+ | - Modernize the site’s design to closely match the official Star Wars website. |
+ | - Implement a welcome page with a button to access the main starship list.<br>- Use React routing for navigation.<br>- Create a separate navigation bar component if needed. |
+| - Create a fake backend with JSON Server Auth or Firebase for user management.<br>- Implement Login and Register screens.<br>- Ensure users cannot register with the same email and are logged in immediately after registration. |
+| - Protect routes so that only registered users can view the starship list.<br>- Redirect unauthenticated users to the login page and then back to the originally requested page upon successful login. |
+| - Enhance the starship detail view by displaying pilot cards.<br>- Create a new component for displaying pilot information and style it appropriately. |
+
+
+<br><br>
+
+## 🚧 Currently working on ... 🚧
+## React - Incorpode 
+
+| **Objective**             | **Description**                                      |
+|---------------------------|------------------------------------------------------|
+| **Setup**                 | Initialize the project with React and manage data using Redux or Context. |
+| **Data Visualization**    | Display total expenses, today's expenses, percentage change, and weekly expense charts. |
+| **Testing**               | Implement unit tests to ensure functionality and code quality. |
+| **Internationalization**  | Add multi-language support using i18n.              |
+| **Deployment**            | Deploy the app on Vercel and ensure GitHub pipelines function correctly. |
+| **Additional Features**   | Allow users to modify the week for data viewing and integrate SonarCloud for automated code reviews. |
+
+<br><br>
 
 ## Stats
 <table align="center">
