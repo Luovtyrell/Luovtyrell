@@ -102,7 +102,7 @@ https://github.com/Luovtyrell/Star-Wars.git
 
 | **Objective**             | **Description**                                      |
 |---------------------------|------------------------------------------------------|
-| **Setup**                 | Initialize the project with React and manage data using Redux or Context. |
+| **Setup**                 | Project with React and manage data using Context. |
 | **Data Visualization**    | Display total expenses, today's expenses, percentage change, and weekly expense charts. |
 | **Testing**               | Implement unit tests to ensure functionality and code quality. |
 | **Internationalization**  | Add multi-language support using i18n.              |
