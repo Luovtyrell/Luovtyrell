@@ -24,7 +24,7 @@ Thanks to my 5 years of experience in the notarial sector, I have developed the 
 </p> 
 <br>
 
-## Languages and Tools
+## 🧰 Languages and Tools
 <div align="center">
 <a href="https://react.dev/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=react&theme=dark" width="36" height="36" alt="React" /></a>
 <a href="https://ecma-international.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=js&theme=dark" width="36" height="36" alt="JavaScript" /></a>
@@ -64,12 +64,14 @@ Prepare for a cinematic adventure that’s just as thrilling as the **"Greatest 
 
 ## 🆕 My Latest React Project
 <a href='https://github.com/Luovtyrell/Star-Wars.git' target='_blank'>
-  <img width='20%' src='https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Star_Wars_Logo.svg/2560px-Star_Wars_Logo.svg.png' alt='https://github.com/Luovtyrell/Star-Wars.git' />
+  <img align='left' width='20%' src='https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Star_Wars_Logo.svg/2560px-Star_Wars_Logo.svg.png' alt='https://github.com/Luovtyrell/Star-Wars.git' />
 </a>
 <br>
-https://github.com/Luovtyrell/Star-Wars.git
-<br><br>
 
+- **[Star Wars GitHub Repo](https://github.com/Luovtyrell/Star-Wars.git)**: Check out the source code on GitHub.
+- **[Star Wars Web on Vercel](https://star-wars-kappa-sepia.vercel.app/)**: Visit the live Star Wars web application.
+
+<br><br>
 | **Aspect**               | **Description**                                                                                                 |
 |--------------------------|-----------------------------------------------------------------------------------------------------------------|
 | **Project Overview**     | Developing a web app to display Star Wars starships, pilots and gilms using SWAPI.                              |
@@ -77,9 +79,7 @@ https://github.com/Luovtyrell/Star-Wars.git
 
 <br>
 
-### 🚀 Main Features 
-
-## ✨ Main Features
+### Main Features
 
 | **Feature** | **Description** |
 |-------------|-----------------|
@@ -98,7 +98,7 @@ https://github.com/Luovtyrell/Star-Wars.git
 <br><br>
 
 ## 🚧 Currently working on ... 🚧
-## React - Incorpode 
+### React - Incorpode 
 
 | **Objective**             | **Description**                                      |
 |---------------------------|------------------------------------------------------|
@@ -111,7 +111,19 @@ https://github.com/Luovtyrell/Star-Wars.git
 
 <br><br>
 
-## Stats
+## 🌐 Vercel Deployments
+
+Here are the links to the projects deployed on Vercel. Click on the project names to visit the live applications.
+
+| Project                   | Link                                            |
+|---------------------------|-------------------------------------------------|
+| **React Budgets Web**     | [Visit React Budgets Web](https://react-budgets-five.vercel.app/) |
+| **React Star Wars Web**   | [Visit React Star Wars Web](https://star-wars-kappa-sepia.vercel.app/) |
+
+
+<br><br>
+
+## 📊 Stats
 <table align="center">
   <tr>
     <td align="center">
@@ -127,7 +139,8 @@ https://github.com/Luovtyrell/Star-Wars.git
 </table>
 <br><br>
 
-## Feel free to contact me
+
+## 📧 Feel free to contact me
 <div>
 <a href="mailto:luciaorvilanova@gmail.com" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=fff&style=flat-square" alt="Gmail" /></a>
 <a href="https://es.linkedin.com/in/luc%C3%ADa-m%C2%AA-ordo%C3%B1ez-vilanova-47a49a187?original_referer=https%3A%2F%2Fwww.google.com%2F" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=flat-square" alt="LinkedIn" /></a>
@@ -135,8 +148,7 @@ https://github.com/Luovtyrell/Star-Wars.git
 <a href="http://discordapp.com/users/664163194989707308" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=fff&style=flat-square" alt="Discord" /></a>
 </div>
 
----
-<h3 align="center">Explore My Pinned Projects Below!</h3>
+<h3 align="center">📌 Explore My Pinned Projects Below!</h3>
 <br>
 <p align="center">
 <a href='https://postimg.cc/9zGRtVcK' target='_blank'><img src='https://i.postimg.cc/9zGRtVcK/Captura-de-pantalla-2024-08-05-a-las-18-55-22.png' border='0' alt='flchaVerdeByLuciaOrdoñez'/></a> </p>
