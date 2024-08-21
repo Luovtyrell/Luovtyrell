@@ -84,16 +84,17 @@ Prepare for a cinematic adventure that’s just as thrilling as the **"Greatest 
 | **Feature** | **Description** |
 |-------------|-----------------|
 | **Starship List** | Displayed a list of starships on the main screen, showing essential data: Name and Model of each starship. |
-| **Starship Detail View** | Created a detailed view for each starship. Users can access details by clicking on a starship in the list. |
 | **Load More** | Implemented a "view more" button to load additional starships and pilots. |
+| **Starship Detail View** | Created a detailed view for each starship including their photo. Users can access details by clicking on a starship in the list. The view also shows who pilots the starship and in which films it appears including their photo. |
+| **Pilot Detail View** | Created a new component to display detailed information about the pilot, including their photo, and styled it appropriately. |
 | **Modern Design** | Modernized the site’s design to closely match the official Star Wars website. |
 | **Welcome Page** | Implemented a welcome page with a button to access the main starship list and pilots, using React routing for navigation. |
 | **User Management** | Developed a fake backend with Firebase for user management. Implemented Login and Register screens, ensuring users cannot register with the same email and are logged in immediately after registration. |
-| **Route Protection** | Protected routes so that only registered users can view the starship list. Redirected unauthenticated users to the login page and then back to the originally requested page upon successful login. |
-| **Pilot Detail View** | Enhanced the starship detail view by displaying pilot detail cards. Created a new component for displaying pilot detailed info and styled it appropriately. |
-| **Film and Pilots Appearances** | Added information on which pilots have piloted each starship and in which films the starships appeared, including photos of the pilots and film scenes. |
-| **Context & API Integration** | Utilized Context for state management and made API calls to the Star Wars API for retrieving data. |
-
+| **Route Protection** | Protected routes so that only registered users can view the starship list and pilot list. Redirected unauthenticated users to the login page and then back to the originally requested page upon successful login. |
+| **Film and Pilots Appearances** | Added information on which pilots have piloted each starship and in which films the starships appeared, including photos of the pilots and film poster. |
+| **Context & Provider** | Implemented Context and Provider for global state management. 
+| **`useData` Hook** | A custom React hook designed for managing data fetching from APIs. It simplifies the process of retrieving data from single or multiple endpoints and handles the loading state, data, and errors. This hook uses `useEffect` to perform asynchronous data fetching and updates the state based on the API responses. It supports both single and multiple endpoint requests and ensures that the data is properly formatted and errors are handled gracefully. |
+| **`fetchData` Function** | A utility function for making HTTP GET requests using Axios. It fetches data from a specified URL and includes error handling to provide user-friendly error messages if the request fails. This function sets custom headers and manages the response data, ensuring that any issues encountered during the data retrieval process are communicated effectively. |
 
 <br><br>
 
