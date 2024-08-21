@@ -39,6 +39,8 @@ Thanks to my 5 years of experience in the notarial sector, I have developed the 
 <a href="https://jestjs.io/es-ES/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=jest&theme=dark" width="36" height="36" alt="jest" /></a>
 <a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=vite&theme=light" width="36" height="36" alt="vite" /></a>
 <a href="https://vitest.dev/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=vitest&theme=light" width="36" height="36" alt="vitest" /></a>
+<a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=redux&theme=dark" width="36" height="36" alt="redux" /></a>
+<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=firebase&theme=dark" width="36" height="36" alt="firebase" /></a>
 <a href="https://wordpress.com/es/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=wordpress&theme=dark" width="36" height="36" alt="wordpress" /></a>
 </div>
 <br><br>
