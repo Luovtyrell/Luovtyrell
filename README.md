@@ -6,7 +6,7 @@
 <p align="justify">
    <img align='right' src="https://i.postimg.cc/HWNGXXcQ/Captura-de-pantalla-2024-08-05-a-las-18-19-17.png" width="300" alt="flchaVerdeByLuciaOrdoñez">
 I am an optimistic and diligent front-end development student, dedicated to learning React while staying up-to-date with the latest technologies. I consider myself organized, and my motto is to maintain code as clean, SOLID, dynamic and orderly as possible. Each day, I prioritize dedicating time to practice and refine my skills in the technologies I've already learned. My favorite language of all time is JavaScript. <br><br>
-Thanks to my 5 years of experience in the notarial sector, I have developed the ability to work under pressure and pay great attention to detail, as there is no room for errors in that field. Despite the pressure, I always maintain a sense of joy and warmth.
+Thanks to my 6 years of experience in the notarial sector, I have developed the ability to work under pressure and pay great attention to detail, as there is no room for errors in that field. Despite the pressure, I always maintain a sense of joy and warmth.
 
 **Coding with heart! 🫀💻**
 <br><br>
@@ -112,6 +112,12 @@ Prepare for a cinematic adventure that’s just as thrilling as the **"Greatest 
 | **Deployment**            | Deploy the app on Vercel and ensure GitHub pipelines function correctly. |
 | **Additional Features**   | Allow users to modify the week for data viewing and integrate SonarCloud for automated code reviews. |
 
+<br>
+
+> [!NOTE]
+> 
+> Looking for a quick and customizable React setup? Check out my [React + Vite + PropTypes + React Router + Tailwind CSS Starter Template](https://github.com/Luovtyrell/React-Vite-PropTypes-React-Router-Tailwind-Starter)! 🚀
+
 <br><br>
 
 ## 🌐 Vercel Deployments
@@ -122,7 +128,6 @@ Here are the links to the projects deployed on Vercel. Click on the project name
 |---------------------------|-------------------------------------------------|
 | **React Budgets Web**     | [Visit React Budgets Web](https://react-budgets-five.vercel.app/) |
 | **React Star Wars Web**   | [Visit React Star Wars Web](https://star-wars-kappa-sepia.vercel.app/) |
-
 
 <br><br>
 
