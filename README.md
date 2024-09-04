@@ -85,11 +85,6 @@ Prepare for a cinematic adventure that’s just as thrilling as the **"Greatest 
 
 ### React - Incorpode 
 
-<details>
-  <summary>Click to view</summary>
-  <img align='left' width='300' src="https://i.postimg.cc/rp10hQZ7/Captura-de-pantalla-2024-09-04-a-las-12-16-28.png" />
-</details>
-
 
 | **Objective**             | **Description**                                      |
 |---------------------------|------------------------------------------------------|
@@ -115,6 +110,7 @@ Here are the links to the projects deployed on Vercel. Click on the project name
 |---------------------------|-------------------------------------------------|
 | **React Budgets Web**     | [Visit React Budgets Web](https://react-budgets-five.vercel.app/) |
 | **React Star Wars Web**   | [Visit React Star Wars Web](https://star-wars-kappa-sepia.vercel.app/) |
+| **React Incorpode**       | [Visit React Incorpode App](https://react-incorpode.vercel.app/) |
 
 <br><br>
 
