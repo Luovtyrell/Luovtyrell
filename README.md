@@ -101,15 +101,21 @@ Prepare for a cinematic adventure that’s just as thrilling as the **"Greatest 
 <br><br>
 
 ## 🚧 Currently working on ... 🚧
+
 ### React - Incorpode 
+
+<details>
+  <summary>Click to view</summary>
+  <img align='left' width='300' src="https://i.postimg.cc/rp10hQZ7/Captura-de-pantalla-2024-09-04-a-las-12-16-28.png" />
+</details>
+
 
 | **Objective**             | **Description**                                      |
 |---------------------------|------------------------------------------------------|
 | **Setup**                 | Project with React and manage data using Context. |
-| **Data Visualization**    | Display total expenses, today's expenses, percentage change, and weekly expense charts. |
-| **Testing**               | Implement unit tests to ensure functionality and code quality. |
-| **Internationalization**  | Add multi-language support using i18n.              |
-| **Deployment**            | Deploy the app on Vercel and ensure GitHub pipelines function correctly. |
+| **Data Visualization**    | Display total expenses, today's expenses, percentage change, and weekly expense charts using Charts.js |
+| **Testing**               | Unit tests to ensure functionality. |
+| **Internationalization**  | Multi-language support using i18n.              |
 | **Additional Features**   | Allow users to modify the week for data viewing and integrate SonarCloud for automated code reviews. |
 
 <br>
