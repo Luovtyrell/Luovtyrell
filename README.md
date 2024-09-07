@@ -43,30 +43,15 @@ Thanks to my 6 years of experience in the notarial sector, I have developed the 
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=firebase&theme=dark" width="36" height="36" alt="firebase" /></a>
 <a href="https://wordpress.com/es/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=wordpress&theme=dark" width="36" height="36" alt="wordpress" /></a>
 </div>
+
 <br><br>
 
----
+## 🆕 My Latest React Projects
 
-## 🎬 **Coming Soon: Your Ideal Movie Recommender!** 🎬
+### Star Wars
 
-I’m thrilled to announce my very own personal project: **Your Next Favorite Movie** is just around the corner with my innovative recommendation app. Get ready for a cinematic journey like never before!
-
-| **What I Offer**               | **Details**                                                                                   |
-|--------------------------------|-----------------------------------------------------------------------------------------------|
-| **Tailored Recommendations**   | Answer a few questions, and I’ll use an AI API to suggest movies that perfectly match your tastes. Think of me as your personal **Director’s Cut** of movie picks! |
-| **Smart History**              | Keep track of all the films you’ve watched, so my future recommendations are always a **Box Office Hit**. It’s like having a personal **film reel** of your movie journey! |
-| **Cutting-Edge Technology**    | Experience the latest tech for delivering precise and thrilling suggestions. It’s like having a **Behind-the-Scenes** pass to uncover your next favorite movie! |
-| **User-Friendly Interface**    | Enjoy a seamless and easy-to-navigate platform. Think of it as your own **Red Carpet** experience in the world of movie recommendations! |
-
-
-Prepare for a cinematic adventure that’s just as thrilling as the **"Greatest Showman"** or as mind-bending as the **"Matrix"**. Stay tuned for the premiere of your ultimate movie companion! 🍿🎥
-
----
-<br> <br>
-
-## 🆕 My Latest React Project
 <a href='https://github.com/Luovtyrell/Star-Wars.git' target='_blank'>
-  <img align='left' width='20%' src='https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Star_Wars_Logo.svg/2560px-Star_Wars_Logo.svg.png' alt='https://github.com/Luovtyrell/Star-Wars.git' />
+  <img align='left' width='20%' src='https://i.postimg.cc/cdVRZwt9/Captura-de-pantalla-2024-09-07-a-las-11-54-15.png' alt='https://github.com/Luovtyrell/Star-Wars.git' />
 </a>
 <br>
 
@@ -74,25 +59,47 @@ Prepare for a cinematic adventure that’s just as thrilling as the **"Greatest 
 - **[Star Wars Web on Vercel](https://star-wars-kappa-sepia.vercel.app/)**: Visit the live Star Wars web application.
 
 <br><br>
+
 | **Aspect**               | **Description**                                                                                                 |
 |--------------------------|-----------------------------------------------------------------------------------------------------------------|
-| **Project Overview**     | Developing a web app to display Star Wars starships, pilots and gilms using SWAPI.                              |
-| **Key Technologies**     | React, Context, Axios, React Router, firebase, SWAPI, Tailwind, Protected Routes.                               |
+| **Project Overview**     | A website that allows registered users to explore a database of Star Wars starships, pilots, and films, using the SWAPI public API to fetch the information.                                                                                                                                 |
+| **Key Technologies**     | React, Context, Axios, React Router, firebase, SWAPI, TailwindCSS, DaisyUI Protected Routes and custom hooks.                  |
+
+<br>
+
+### Incorpode 
+
+<a href='https://github.com/Luovtyrell/Star-Wars.git' target='_blank'>
+  <img align='left' width='20%' src='https://i.postimg.cc/TRYbq0b4/Captura-de-pantalla-2024-09-07-a-las-11-23-59.png' alt='react incorpode app img' />
+
+
+- **[React-Incorpode GitHub Repo](https://github.com/Luovtyrell/React-incorpode)**: Check out the source code on GitHub.
+- **[React-Incorpode App on Vercel](https://react-incorpode.vercel.app/)**: Visit the live Star Wars web application.
 
 <br><br>
 
-## 🚧 Currently working on ... 🚧
-
-### React - Incorpode 
-
-
-| **Objective**             | **Description**                                      |
+| **Aspect**                 | **Description**                                     |
 |---------------------------|------------------------------------------------------|
-| **Setup**                 | Project with React and manage data using Context. |
-| **Data Visualization**    | Display total expenses, today's expenses, percentage change, and weekly expense charts using Charts.js |
-| **Testing**               | Unit tests to ensure functionality. |
-| **Internationalization**  | Multi-language support using i18n.              |
-| **Additional Features**   | Allow users to modify the week for data viewing and integrate SonarCloud for automated code reviews. |
+| **Project Overview**      | An app that display total expenses, today's expenses, percentage change, and weekly expense charts using Charts.js.   |
+| **Key Tecnologies**       | React, Context, TailwindCSS, Flowbite, custom hooks, Charts.js, i18n, vitest, JSDOM and SonarCloud. |
+
+<br>
+
+### Budgets 
+
+<a href='https://github.com/Luovtyrell/Star-Wars.git' target='_blank'>
+  <img align='left' width='20%' src='https://i.postimg.cc/w9hKcczL/Captura-de-pantalla-2024-09-07-a-las-11-29-10.png' alt='react budgets web img' />
+
+
+- **[React-Budgets GitHub Repo](https://github.com/Luovtyrell/React-budgets)**: Check out the source code on GitHub.
+- **[React-Budgets Incorpode App on Vercel](https://react-budgets-five.vercel.app/)**: Visit the live Star Wars web application.
+
+<br><br>
+
+| **Aspect**               | **Description**                                                                                                 |
+|--------------------------|-----------------------------------------------------------------------------------------------------------------|
+| **Project Overview**     | This React web application simplifies website budget calculations using checkboxes, input fields, and buttons to adjust the total price based on user selections.                                                                                                                                 |
+| **Key Technologies**     | React, Context, React Router, SWAPI, Bootstrap5, Protected Routes and custom hooks.                              |
 
 <br>
 
@@ -100,7 +107,24 @@ Prepare for a cinematic adventure that’s just as thrilling as the **"Greatest 
 > 
 > Looking for a quick and customizable React setup? Check out my [React + Vite + PropTypes + React Router + Tailwind CSS Starter Template](https://github.com/Luovtyrell/React-Vite-PropTypes-React-Router-Tailwind-Starter)! 🚀
 
-<br><br>
+<br>
+
+---
+
+# 🚧 CURRENTLY WORKING ON ... 🚧
+
+## REACT MOVIE MOOD RECOMENDER 🎬 🍿
+
+ <img align='right' src="https://www.santiniphotography.com/wp-content/uploads/2020/03/Blade-Runner-2049.jpg" width="300" alt="Blade Runner 2049 Frame">
+
+<p align="justify">
+I’m currently working on my most ambitious personal project: a React app that recommends movies based on your mood! Using cutting-edge AI with the Gemini API, this app tailors movie suggestions to your emotions. I’m putting great effort into making the app as reactive as possible, leveraging solid aspects of React and best practices. The design emphasizes a smooth user experience (UX/UI), with Tailwind CSS providing a clean, modern interface.
+
+Stay tuned for more updates as I continue refining and enhancing the app! </p>
+
+---
+
+<br>
 
 ## 🌐 Vercel Deployments
 
@@ -108,11 +132,11 @@ Here are the links to the projects deployed on Vercel. Click on the project name
 
 | Project                   | Link                                            |
 |---------------------------|-------------------------------------------------|
-| **React Budgets Web**     | [Visit React Budgets Web](https://react-budgets-five.vercel.app/) |
 | **React Star Wars Web**   | [Visit React Star Wars Web](https://star-wars-kappa-sepia.vercel.app/) |
+| **React Budgets Web**     | [Visit React Budgets Web](https://react-budgets-five.vercel.app/) |
 | **React Incorpode**       | [Visit React Incorpode App](https://react-incorpode.vercel.app/) |
 
-<br><br>
+<br>
 
 ## 📊 Stats
 <table align="center">
@@ -128,8 +152,8 @@ Here are the links to the projects deployed on Vercel. Click on the project name
     </td>
   </tr>
 </table>
-<br><br>
 
+<br>
 
 ## 📧 Feel free to contact me
 <div>
