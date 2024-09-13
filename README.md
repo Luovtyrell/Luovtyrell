@@ -5,19 +5,25 @@
 
 <p align="justify">
    <img align='right' src="https://i.postimg.cc/HWNGXXcQ/Captura-de-pantalla-2024-08-05-a-las-18-19-17.png" width="300" alt="flchaVerdeByLuciaOrdoñez">
-I am an optimistic and diligent front-end development student, dedicated to learning React while staying up-to-date with the latest technologies. I consider myself organized, and my motto is to maintain code as clean, SOLID, dynamic and orderly as possible. Each day, I prioritize dedicating time to practice and refine my skills in the technologies I've already learned. My favorite language of all time is JavaScript. <br><br>
+I am an optimistic and diligent FrontEnd developer specializing in React and a UX/UI Design student, dedicated to staying up-to-date with the latest technologies. I consider myself organized, and my motto is to keep code as clean, SOLID, dynamic, and orderly as possible. Each day, I prioritize dedicating time to practice and refine my skills in the technologies I've already learned. My favorite language of all time is JavaScript. <br> <br>
 Thanks to my 6 years of experience in the notarial sector, I have developed the ability to work under pressure and pay great attention to detail, as there is no room for errors in that field. Despite the pressure, I always maintain a sense of joy and warmth.
 
 **Coding with heart! 🫀💻**
 <br><br>
 
 ## About Me:
-- 🛠 I'm open to exploring and learning new frameworks and technologies.
-- 🧰 Striving to perfect my coding skills by crafting clean, efficient code that prioritizes simplicity and minimizes redundancy.
+- 🌐 Currently studying User Design and Experience (UX/UI) with the Google scholarship through Fundae-SEPE on Coursera
+  - [Google UX/UIProgram](https://www.coursera.org/programs/becas-google-fundae-sepe-ux-tuoor).
+- 🎓 I’ve just completed a 9-month, state-subsidized Front End Developer bootcamp at IT Academy - Barcelona Activa
+  - [IT Academy Barcelona Activa](https://www.barcelonactiva.cat/es/itacademy?utm_source=SEM&utm_medium=Cercadors&utm_content=SEM&utm_term=IT_ALU_es&utm_campaign=IT_Academy&gad_source=1&gclid=CjwKCAjwxY-3BhAuEiwAu7Y6syFM5PIGv2-gnMuu6rJPqIGikk7UlTNOrCLqizvByvt_H8ioUu34WhoCtv0QAvD_BwE).
+- 🔎 **I’m currently looking for a job! If you know of any opportunities in web development, I’d love to hear from you.**
+
+
+## Fun Facts:
+- 🏛️ Graduated in Political Science and Public Management from Universitat Autònoma de Barcelona (UAB)
+- 🧰 I put a lot of effort into writing clean code without redundancy and spend hours reading official documentation.
 - 🧩 I enjoy solving puzzles and coding challenges.
-- 🌐 I'm interested in UI/UX design principles, trying to learn by myself.
 - 🖼️ I enjoy Baroque art and architecture, especially Catalan Romanesque architecture.
-- 📚 The literature of the "Generación del 98" is my favorite.
 - 🍽️ I have a deep appreciation for traditional Spanish and Catalan haute cuisine.
 - 🥸 I love cinema and video games.
 - 🐸 I really love spending time in nature, and searching for amphibians.
@@ -151,16 +157,22 @@ Here are the links to the projects deployed on Vercel. Click on the project name
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luovtyrell&langs_count=8&layout=donut&theme=onedark&hide_border=true&include_all_commits=true" width="285"/>
     </td>
   </tr>
-</table>
+  <tr>
+    <td align="center">
+      
+![Visitors](https://api.visitorbadge.io/api/daily?path=https%3A%2F%2Fgithub.com%2FLuovtyrell%2FLuovtyrell%2F&label=Daily%20visitors&labelColor=%23282c34&countColor=%23e4c07b)
+  
+  </td>
+  </tr>
+</table>              
+                                        
 
 <br>
 
+
 ## 📧 Feel free to contact me
 <div>
-<a href="mailto:luciaorvilanova@gmail.com" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=fff&style=flat-square" alt="Gmail" /></a>
-<a href="https://es.linkedin.com/in/luovtyrell" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=flat-square" alt="LinkedIn" /></a>
-<a href="https://t.me/luovtyrell" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Telegram-26A5E4?logo=telegram&logoColor=fff&style=flat-square" alt="Telegram" /></a>
-<a href="http://discordapp.com/users/664163194989707308" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=fff&style=flat-square" alt="Discord" /></a>
+<a href="mailto:luciaorvilanova@gmail.com" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=fff&style=flat-square"  height="23" alt="Gmail" /></a> <a href="https://www.linkedin.com/in/luovtyrell" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=flat-square" height="23" alt="LinkedIn" /></a> <a href="https://t.me/luovtyrell" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Telegram-26A5E4?logo=telegram&logoColor=fff&style=flat-square" height="23" alt="Telegram" /></a> <a href="http://discordapp.com/users/664163194989707308" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=fff&style=flat-square" height="23" alt="Discord" /></a>
 </div>
 
 <h3 align="center">📌 Explore My Pinned Projects Below!</h3>
