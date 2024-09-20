@@ -135,7 +135,7 @@ Thanks to my 6 years of experience in the notarial sector, I have developed the 
 - Responsive UI: Built with a focus on usability and responsiveness, ensuring a seamless experience across devices.
 
 
-## Technical details and goals
+### Technical details and goals
 
 - Tech and tools: Developed using React + JavaScript jsx, TailwindCSS, CSS, and DaisiUI.
 - Context: Implements the Context to manage application state globally, facilitating mood selection and submission while minimizing prop drilling, I'm focused to design a good provider pattern.
