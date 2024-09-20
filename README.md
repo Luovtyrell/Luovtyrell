@@ -119,14 +119,35 @@ Thanks to my 6 years of experience in the notarial sector, I have developed the 
 
 # 🚧 CURRENTLY WORKING ON ... 🚧
 
-## REACT MOVIE MOOD RECOMENDER 🎬 🍿
-
- <img align='right' src="https://www.santiniphotography.com/wp-content/uploads/2020/03/Blade-Runner-2049.jpg" width="300" alt="Blade Runner 2049 Frame">
+ <img align='right' src="https://media.licdn.com/dms/image/v2/D4D22AQHciPZlASWXaQ/feedshare-shrink_1280/feedshare-shrink_1280/0/1726664422587?e=1729728000&v=beta&t=HaN3DdbwuUh67mW6RLAoPJ8Uj_FtklWX6GWMbmhacYo" width="300" alt="poster app designed by Lucía Ordoñez">
 
 <p align="justify">
-I’m currently working on my most ambitious personal project: a React app that recommends movies based on your mood! Using cutting-edge AI with the Gemini API, this app tailors movie suggestions to your emotions. I’m putting great effort into making the app as reactive as possible, leveraging solid aspects of React and best practices. The design emphasizes a smooth user experience (UX/UI), with Tailwind CSS providing a clean, modern interface.
 
-Stay tuned for more updates as I continue refining and enhancing the app! </p>
+## TAKE ONE 🎬 - React movie tool recommender
+>Lights, camera and match!
+
+**Take One** is an intelligent movie recommendation tool designed to suggest films based on your mood. This personal project allows users to find the perfect movie tailored to their emotional state.
+
+### Features
+
+- Mood-Based Recommendations: Utilizes an array of predefined moods to recommend movies that match the user's emotional state.
+- Filtering Options: Allows users to apply additional filters to include or exclude specific genres, year, director, etc enhancing search flexibility.
+- Responsive UI: Built with a focus on usability and responsiveness, ensuring a seamless experience across devices.
+
+
+## Technical details and goals
+
+- Tech and tools: Developed using React + JavaScript jsx, TailwindCSS, CSS, and DaisiUI.
+- Context: Implements the Context to manage application state globally, facilitating mood selection and submission while minimizing prop drilling, I'm focused to design a good provider pattern.
+- SOLID Principles: Adheres to SOLID design principles, ensuring code is maintainable and scalable:
+  - Components are designed to handle one specific task, promoting clarity and reusability.
+  - The app is open for extension (e.g., adding new moods or filters) but closed for modification, preserving existing functionality.
+  - Ensures components can be replaced without altering the app's behavior.
+  - Utilizes smaller, specific interfaces for components, allowing for more flexibility.
+  - High-level components depend on abstractions rather than concrete implementations.
+
+The ongoing development of Take One aims to enhance feature sets, improve the overall user experience, and maintain high code quality through best practices.
+</p>
 
 ---
 
