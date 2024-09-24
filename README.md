@@ -123,7 +123,7 @@ Thanks to my 6 years of experience in the notarial sector, I have developed the 
 
 <p align="justify">
 
-## TAKE ONE 🎬 - React movie tool recommender
+### TAKE ONE 🎬 - React movie tool recommender
 >Lights, camera and match!
 
 **Take One** is an intelligent movie recommendation tool designed to suggest films based on your mood. This personal project allows users to find the perfect movie tailored to their emotional state.
