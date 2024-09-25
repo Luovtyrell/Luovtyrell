@@ -149,6 +149,8 @@ Thanks to my 6 years of experience in the notarial sector, I have developed the 
 The ongoing development of Take One aims to enhance feature sets, improve the overall user experience, and maintain high code quality through best practices.
 </p>
 
+[TakeOne Repo](https://github.com/Luovtyrell/TakeOne-Movie-Recommender)
+
 ---
 
 <br>
