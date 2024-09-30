@@ -1,10 +1,10 @@
 <div align="center">
-  <img src="https://i.postimg.cc/HHJrDrNG/Captura-de-pantalla-2024-08-02-a-las-15-23-09.png" alt="headerByLuciaOrdoñez">
+  <img src="https://i.postimg.cc/3NsNq8fM/Captura-de-pantalla-2024-09-30-a-las-13-22-34.png" alt="headerByLuciaOrdoñez">
 <h1> <a href="https://www.linkedin.com/in/luovtyrell/"> Hello World!</a> ✨</h1>
 </div>
 
 <p align="justify">
-   <img align='right' src="https://i.postimg.cc/HWNGXXcQ/Captura-de-pantalla-2024-08-05-a-las-18-19-17.png" width="300" alt="flchaVerdeByLuciaOrdoñez">
+   <img align='right' src="https://i.postimg.cc/43Qch9LY/Captura-de-pantalla-2024-09-30-a-las-13-14-11.png" width="300" alt="flchaVerdeByLuciaOrdoñez">
 I am an optimistic and diligent FrontEnd developer specializing in React and a UX/UI Design student, dedicated to staying up-to-date with the latest technologies. I consider myself organized, and my motto is to keep code as clean, SOLID, dynamic, and orderly as possible. Each day, I prioritize dedicating time to practice and refine my skills in the technologies I've already learned. My favorite language of all time is JavaScript. <br> <br>
 Thanks to my 6 years of experience in the notarial sector, I have developed the ability to work under pressure and pay great attention to detail, as there is no room for errors in that field. Despite the pressure, I always maintain a sense of joy and warmth.
 
@@ -199,6 +199,6 @@ Here are the links to the projects deployed on Vercel. Click on the project name
 </div>
 
 <h3 align="center">📌 Explore My Pinned Projects Below!</h3>
-<br>
-<p align="center">
-<a href='https://postimg.cc/9zGRtVcK' target='_blank'><img src='https://i.postimg.cc/9zGRtVcK/Captura-de-pantalla-2024-08-05-a-las-18-55-22.png' border='0' alt='flchaVerdeByLuciaOrdoñez'/></a> </p>
+<div align="center">
+   <img src="https://i.postimg.cc/s2rSXccF/Captura-de-pantalla-2024-09-30-a-las-13-19-32.png" width="150" alt="flchaVerdeByLuciaOrdoñez">
+</div>
