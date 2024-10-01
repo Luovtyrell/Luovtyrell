@@ -1,10 +1,10 @@
 <div align="center">
-  <img src="https://i.postimg.cc/prdkCnsd/Captura-de-pantalla-2024-09-30-a-las-14-34-34.png" alt="headerByLuciaOrdoñez">
+  <img src="https://i.postimg.cc/k5Rt5SQ3/Captura-de-pantalla-2024-10-01-a-las-9-15-35.png" alt="headerByLuciaOrdoñez">
 <h1> <a href="https://www.linkedin.com/in/luovtyrell/"> Hello World!</a> ✨</h1>
 </div>
 
 <p align="justify">
-   <img align='right' src="https://i.postimg.cc/SsnfzpRX/Captura-de-pantalla-2024-09-30-a-las-14-38-03.png" width="200" alt="VerdeByLuciaOrdoñez">
+   <img align='right' src="https://i.postimg.cc/hjFQQGsJ/Captura-de-pantalla-2024-10-01-a-las-9-15-44.png" width="200" alt="VerdeByLuciaOrdoñez">
 I am an optimistic and diligent FrontEnd developer specializing in React and a UX/UI Design student, dedicated to staying up-to-date with the latest technologies. I consider myself organized, and my motto is to keep code as clean, SOLID, dynamic, and orderly as possible. Each day, I prioritize dedicating time to practice and refine my skills in the technologies I've already learned. My favorite language of all time is JavaScript. <br> <br>
 Thanks to my 6 years of experience in the notarial sector, I have developed the ability to work under pressure and pay great attention to detail, as there is no room for errors in that field. Despite the pressure, I always maintain a sense of joy and warmth.
 
@@ -119,7 +119,7 @@ Thanks to my 6 years of experience in the notarial sector, I have developed the 
 
 # 🚧 CURRENTLY WORKING ON ... 🚧
 
- <img align='right' src="https://media.licdn.com/dms/image/v2/D4D22AQHciPZlASWXaQ/feedshare-shrink_1280/feedshare-shrink_1280/0/1726664422587?e=1729728000&v=beta&t=HaN3DdbwuUh67mW6RLAoPJ8Uj_FtklWX6GWMbmhacYo" width="300" alt="poster app designed by Lucía Ordoñez">
+ <img align='right' src="https://media.licdn.com/dms/image/v2/D4D22AQHtCvLGd4nipA/feedshare-shrink_1280/feedshare-shrink_1280/0/1727262791468?e=1730937600&v=beta&t=fXUe6VgDfC-Y6LE6NzrntLmVqppO0gkggD-25J1LJKs" width="300" alt="poster app designed by Lucía Ordoñez">
 
 <p align="justify">
 
@@ -200,5 +200,5 @@ Here are the links to the projects deployed on Vercel. Click on the project name
 
 <h3 align="center">📌 Explore My Pinned Projects Below!</h3>
 <div align="center">
-   <img src="https://i.postimg.cc/zv0Dm4wj/Captura-de-pantalla-2024-09-30-a-las-14-42-33.png" width="150" alt="flchaVerdeByLuciaOrdoñez">
+   <img src="https://i.postimg.cc/63d2rNbM/Captura-de-pantalla-2024-10-01-a-las-9-15-53.png" width="150" alt="flchaVerdeByLuciaOrdoñez">
 </div>
