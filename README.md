@@ -119,7 +119,7 @@ Thanks to my 6 years of experience in the notarial sector, I have developed the 
 
 # 🚧 CURRENTLY WORKING ON ... 🚧
 
- <img align='right' src="https://media.licdn.com/dms/image/v2/D4D22AQHtCvLGd4nipA/feedshare-shrink_1280/feedshare-shrink_1280/0/1727262791468?e=1730937600&v=beta&t=fXUe6VgDfC-Y6LE6NzrntLmVqppO0gkggD-25J1LJKs" width="300" alt="poster app designed by Lucía Ordoñez">
+ <img align='right' src="https://i.imghippo.com/files/6Omnd1727875746.png" width="350" alt="poster app designed by Lucía Ordoñez">
 
 <p align="justify">
 
