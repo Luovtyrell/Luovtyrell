@@ -1,6 +1,9 @@
 <div align="center">
   <img src="https://i.postimg.cc/k5Rt5SQ3/Captura-de-pantalla-2024-10-01-a-las-9-15-35.png" alt="headerByLuciaOrdoñez">
-<h1> <a href="https://www.linkedin.com/in/luovtyrell/"> Hello World!</a> ✨</h1>
+<h1> <a href="https://www.linkedin.com/in/luovtyrell/"> Hello World, I'm Lucía! </a> ✨</h1>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=4996&pause=1000&color=FFCD00&center=true&vCenter=true&width=435&lines=FrontEnd+Developer;UX%2FUI+Student)](https://git.io/typing-svg)
+
 </div>
 
 <p align="justify">
