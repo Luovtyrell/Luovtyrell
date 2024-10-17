@@ -64,8 +64,9 @@ Thanks to my 6 years of experience in the notarial sector, I have developed the 
   <img align='left' width='150px' src='https://github.com/Luovtyrell/Star-Wars/blob/main/public/screenshots/7.png?raw=true' alt='react starwars' />
 </a> 
 
-![Static Badge](https://img.shields.io/badge/Star%20Wars-gray?style=for-the-badge&logo=github&label=Repository&link=https%3A%2F%2Fgithub.com%2FLuovtyrell%2FStar-Wars)
-![Static Badge](https://img.shields.io/badge/Star%20Wars%20live%20demo-black?style=for-the-badge&logo=vercel&label=Vercel&labelColor=black&link=https%3A%2F%2Fstar-wars-kappa-sepia.vercel.app%2F)
+[![GitHub Repo](https://img.shields.io/badge/Star%20Wars-gray?style=for-the-badge&logo=github&label=Repository)](https://github.com/Luovtyrell/Star-Wars)
+[![Vercel Demo](https://img.shields.io/badge/Star%20Wars%20live%20demo-black?style=for-the-badge&logo=vercel&label=Vercel&labelColor=black)](https://star-wars-kappa-sepia.vercel.app/)
+
 
 A website that allows registered users to explore a database of Star Wars starships, pilots, and films, using the SWAPI public API to fetch the information.                  
 <br>
@@ -90,8 +91,8 @@ A website that allows registered users to explore a database of Star Wars starsh
   <img align='left' width='200px' src='https://i.postimg.cc/0QdC2W0s/Captura-de-pantalla-2024-10-17-a-las-11-04-01.png' alt='react budgets web img' />
 </a> 
 
-![Static Badge](https://img.shields.io/badge/Budgets-gray?style=for-the-badge&logo=github&label=Repository&link=https%3A%2F%2Fgithub.com%2FLuovtyrell%2FReact-budgets)
-![Static Badge](https://img.shields.io/badge/Budgets%20live%20demo-black?style=for-the-badge&logo=vercel&label=Vercel&labelColor=black&link=https%3A%2F%2Freact-budgets-five.vercel.app%2F)
+[![GitHub Repo](https://img.shields.io/badge/Budgets-gray?style=for-the-badge&logo=github&label=Repository)](https://github.com/Luovtyrell/React-budgets)
+[![Vercel Demo](https://img.shields.io/badge/Budgets%20live%20demo-black?style=for-the-badge&logo=vercel&label=Vercel&labelColor=black)](https://react-budgets-five.vercel.app/)
 
 This React web application simplifies website budget calculations using checkboxes, input fields, and buttons to adjust the total price based on user selections.                  
 <br>
@@ -111,9 +112,8 @@ This React web application simplifies website budget calculations using checkbox
   <img align='left' width='120px' src='https://i.postimg.cc/vTt2k8N5/Captura-de-pantalla-2024-09-04-a-las-20-24-08.png' alt='react incorpode app img' />
 </a> 
 
-![Static Badge](https://img.shields.io/badge/Incorpode-gray?style=for-the-badge&logo=github&label=Repository&link=https%3A%2F%2Fgithub.com%2FLuovtyrell%2FReact-Incorpode)
-![Static Badge](https://img.shields.io/badge/Incorpode%20live%20demo-black?style=for-the-badge&logo=vercel&label=Vercel&labelColor=black&link=https%3A%2F%2Fgithub.com%2FLuovtyrell%2FReact-Incorpode)
-
+[![GitHub Repo](https://img.shields.io/badge/Incorpode-gray?style=for-the-badge&logo=github&label=Repository)](https://github.com/Luovtyrell/React-Incorpode)
+[![Vercel Demo](https://img.shields.io/badge/Incorpode%20live%20demo-black?style=for-the-badge&logo=vercel&label=Vercel&labelColor=black)](https://react-incorpode.vercel.app/)
 
 This app displays total expenses, today's expenses, percentage change, and weekly expense charts using Charts.js.                  
 <br>
@@ -135,7 +135,7 @@ This app displays total expenses, today's expenses, percentage change, and weekl
   <img align='left' width='120px' src='https://i.postimg.cc/wBzyT6f1/Captura-de-pantalla-2024-10-17-a-las-11-11-19.png' alt='react boored img' />
 </a> 
 
-![Static Badge](https://img.shields.io/badge/Boored-gray?style=for-the-badge&logo=github&label=Repository&link=https%3A%2F%2Fgithub.com%2FLuovtyrell%2FProva-Frontend-Hackato-Barcelona)
+[![GitHub Repo](https://img.shields.io/badge/Boored-gray?style=for-the-badge&logo=github&label=Repository)](https://github.com/Luovtyrell/Prova-Frontend-Hackato-Barcelona)
 
 Boored is a responsive application that offers a variety of activities to do when bored, featuring a friendly and attractive interface. Users can filter activities by type, such as social, educational, charity, or cooking. This project serves as the technical assessment for the FrontEnd category of the Hackathon on October 22-23, 2024.
 <br>
@@ -167,7 +167,7 @@ Boored is a responsive application that offers a variety of activities to do whe
 <p align="justify">
 
 ### TAKE ONE 🎬 - React movie tool recommender
-![Takeone](https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&size=15&pause=1000&color=CF0E2C&width=435&lines=Lights%2C+camera+and+match!)
+>Lights, camera and match!
 
 **Take One** is an intelligent movie recommendation tool designed to suggest films based on your mood. This personal project allows users to find the perfect movie tailored to their emotional state.
 
@@ -194,7 +194,7 @@ The ongoing development of Take One aims to enhance feature sets, improve the ov
 
 ### Check out the development of TakeOne 🍿
 
-![Static Badge](https://img.shields.io/badge/Take%20One%20%F0%9F%8E%AC-cf0e2c?style=for-the-badge&logo=github&label=Repository&labelColor=black&link=https%3A%2F%2Fgithub.com%2FLuovtyrell%2FTakeOne-Movie-Recommender)
+[![GitHub Repo](https://img.shields.io/badge/Take%20One%20🎬-cf0e2c?style=for-the-badge&logo=github&label=Repository&labelColor=black)](https://github.com/Luovtyrell/TakeOne-Movie-Recommender)
 
 ---
 
