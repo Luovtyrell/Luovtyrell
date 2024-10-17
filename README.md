@@ -2,7 +2,7 @@
   <img src="https://i.postimg.cc/k5Rt5SQ3/Captura-de-pantalla-2024-10-01-a-las-9-15-35.png" alt="headerByLuciaOrdoñez">
 <h1> <a href="https://www.linkedin.com/in/luovtyrell/"> Hello World, I'm Lucía! </a> ✨</h1>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=4996&pause=1000&color=FFCD00&center=true&vCenter=true&width=435&lines=FrontEnd+Developer;UX%2FUI+Student)](https://git.io/typing-svg)
+![hi](https://readme-typing-svg.demolab.com?font=Reenie+Beanie&size=50&duration=4996&pause=1000&color=FFCD00&center=true&vCenter=true&width=435&lines=FrontEnd+Developer;UX%2FUI+Student)
 
 </div>
 
@@ -57,72 +57,100 @@ Thanks to my 6 years of experience in the notarial sector, I have developed the 
 
 ## 🆕 My Latest React Projects
 
-### Star Wars
+## Star Wars 
+>Database Explorer
 
 <a href='https://github.com/Luovtyrell/Star-Wars.git' target='_blank'>
-  <img align='left' width='120px' src='https://github.com/Luovtyrell/Star-Wars/blob/main/public/screenshots/7.png?raw=true' alt='react starwars' />
-</a>
+  <img align='left' width='150px' src='https://github.com/Luovtyrell/Star-Wars/blob/main/public/screenshots/7.png?raw=true' alt='react starwars' />
+</a> 
 
+![Static Badge](https://img.shields.io/badge/Star%20Wars-gray?style=for-the-badge&logo=github&label=Repository&link=https%3A%2F%2Fgithub.com%2FLuovtyrell%2FStar-Wars)
+![Static Badge](https://img.shields.io/badge/Star%20Wars%20live%20demo-black?style=for-the-badge&logo=vercel&label=Vercel&labelColor=black&link=https%3A%2F%2Fstar-wars-kappa-sepia.vercel.app%2F)
 
-- **[Star Wars GitHub Repo](https://github.com/Luovtyrell/Star-Wars.git)**: Check out the source code on GitHub.
-- **[Star Wars Web on Vercel](https://star-wars-kappa-sepia.vercel.app/)**: Visit the live Star Wars web application.
-
-
-| **Aspect**               | **Description**                                                                                                 |
-|--------------------------|-----------------------------------------------------------------------------------------------------------------|
-| **Project Overview**     | A website that allows registered users to explore a database of Star Wars starships, pilots, and films, using the SWAPI public API to fetch the information.                                                                                                                                 |
-| **Key Technologies**     | React, Context, Axios, React Router, firebase, SWAPI, TailwindCSS, DaisyUI Protected Routes and custom hooks.                  |
-
+A website that allows registered users to explore a database of Star Wars starships, pilots, and films, using the SWAPI public API to fetch the information.                  
 <br>
 
-### Incorpode 
+[![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)](https://reactjs.org/)
+[![Context API](https://img.shields.io/badge/Context%20API-61DAFB?style=flat-square&logo=react&logoColor=black)](https://reactjs.org/docs/context.html)
+[![Axios](https://img.shields.io/badge/Axios-5A29E4?style=flat-square&logo=axios&logoColor=white)](https://axios-http.com/)
+[![React Router](https://img.shields.io/badge/React%20Router-CA4245?style=flat-square&logo=react-router&logoColor=white)](https://reactrouter.com/)
+[![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)](https://firebase.google.com/)
+[![SWAPI](https://img.shields.io/badge/SWAPI-007D9C?style=flat-square&logo=star-wars&logoColor=white)](https://swapi.dev/)
+[![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)](https://tailwindcss.com/)
+[![DaisyUI](https://img.shields.io/badge/DaisyUI-0EABF0?style=flat-square&logoColor=white)](https://daisyui.com/)
+[![Protected Routes](https://img.shields.io/badge/Protected%20Routes-FFCC00?style=flat-square&logo=react&logoColor=black)](https://reactrouter.com/en/main/route/protecting-routes)
+[![Custom Hooks](https://img.shields.io/badge/Custom%20Hooks-61DAFB?style=flat-square&logo=react&logoColor=black)](https://reactjs.org/docs/hooks-custom.html)
 
-<a href='https://github.com/Luovtyrell/React-incorpode' target='_blank'>
-  <img align='left' width='100px' src='https://i.postimg.cc/vTt2k8N5/Captura-de-pantalla-2024-09-04-a-las-20-24-08.png' alt='react incorpode app img' />
+<br><br>
 
-- **[React-Incorpode GitHub Repo](https://github.com/Luovtyrell/React-incorpode)**: Check out the source code on GitHub.
-- **[React-Incorpode App on Vercel](https://react-incorpode.vercel.app/)**: Visit the live Star Wars web application.
-
-
-| **Aspect**                 | **Description**                                     |
-|---------------------------|------------------------------------------------------|
-| **Project Overview**      | An app that display total expenses, today's expenses, percentage change, and weekly expense charts using Charts.js.   |
-| **Key Tecnologies**       | React, Context, TailwindCSS, Flowbite, custom hooks, Charts.js, i18n, vitest, JSDOM and SonarCloud. |
-
-<br>
-
-### Budgets 
+## Budgets:
+> Interactive Planning, Calculation Tool & Filtering
 
 <a href='https://github.com/Luovtyrell/React-budgets' target='_blank'>
-  <img align='left' width='150px' src='https://i.postimg.cc/0QdC2W0s/Captura-de-pantalla-2024-10-17-a-las-11-04-01.png' alt='react budgets web img' />
-  
+  <img align='left' width='200px' src='https://i.postimg.cc/0QdC2W0s/Captura-de-pantalla-2024-10-17-a-las-11-04-01.png' alt='react budgets web img' />
+</a> 
 
-- **[React-Budgets GitHub Repo](https://github.com/Luovtyrell/React-budgets)**: Check out the source code on GitHub.
-- **[React-Budgets Incorpode App on Vercel](https://react-budgets-five.vercel.app/)**: Visit the live Star Wars web application.
+![Static Badge](https://img.shields.io/badge/Budgets-gray?style=for-the-badge&logo=github&label=Repository&link=https%3A%2F%2Fgithub.com%2FLuovtyrell%2FReact-budgets)
+![Static Badge](https://img.shields.io/badge/Budgets%20live%20demo-black?style=for-the-badge&logo=vercel&label=Vercel&labelColor=black&link=https%3A%2F%2Freact-budgets-five.vercel.app%2F)
 
-
-| **Aspect**               | **Description**                                                                                                 |
-|--------------------------|-----------------------------------------------------------------------------------------------------------------|
-| **Project Overview**     | This React web application simplifies website budget calculations using checkboxes, input fields, and buttons to adjust the total price based on user selections.                                                                                                                                 |
-| **Key Technologies**     | React, Context, React Router, SWAPI, Bootstrap5, Protected Routes and custom hooks.                              |
-
+This React web application simplifies website budget calculations using checkboxes, input fields, and buttons to adjust the total price based on user selections.                  
 <br>
 
-### Boored 
+[![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)](https://reactjs.org/)
+[![Context API](https://img.shields.io/badge/Context%20API-61DAFB?style=flat-square&logo=react&logoColor=black)](https://reactjs.org/docs/context.html)
+[![React Router](https://img.shields.io/badge/React%20Router-CA4245?style=flat-square&logo=react-router&logoColor=white)](https://reactrouter.com/)
+[![Bootstrap 5](https://img.shields.io/badge/Bootstrap%205-7952B3?style=flat-square&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
+[![Protected Routes](https://img.shields.io/badge/Protected%20Routes-FFCC00?style=flat-square&logo=react&logoColor=black)](https://reactrouter.com/en/main/route/protecting-routes)
+[![Custom Hooks](https://img.shields.io/badge/Custom%20Hooks-61DAFB?style=flat-square&logo=react&logoColor=black)](https://reactjs.org/docs/hooks-custom.html)
+
+<br><br>
+
+## Incorpode: Expense Tracker with Interactive Charts
+
+<a href='https://github.com/Luovtyrell/React-incorpode' target='_blank'>
+  <img align='left' width='120px' src='https://i.postimg.cc/vTt2k8N5/Captura-de-pantalla-2024-09-04-a-las-20-24-08.png' alt='react incorpode app img' />
+</a> 
+
+![Static Badge](https://img.shields.io/badge/Incorpode-gray?style=for-the-badge&logo=github&label=Repository&link=https%3A%2F%2Fgithub.com%2FLuovtyrell%2FReact-Incorpode)
+![Static Badge](https://img.shields.io/badge/Incorpode%20live%20demo-black?style=for-the-badge&logo=vercel&label=Vercel&labelColor=black&link=https%3A%2F%2Fgithub.com%2FLuovtyrell%2FReact-Incorpode)
+
+
+This app displays total expenses, today's expenses, percentage change, and weekly expense charts using Charts.js.                  
+<br>
+
+[![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)](https://reactjs.org/)
+[![Context](https://img.shields.io/badge/Context-61DAFB?style=flat-square&logo=react&logoColor=black)](https://reactjs.org/docs/context.html)
+[![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)](https://tailwindcss.com/)
+[![Flowbite](https://img.shields.io/badge/Flowbite-0D6EFD?style=flat-square&logo=flowbite&logoColor=white)](https://flowbite.com/)
+[![Charts.js](https://img.shields.io/badge/Charts.js-FD3A10?style=flat-square&logo=chart.js&logoColor=white)](https://www.chartjs.org/)
+[![i18n](https://img.shields.io/badge/i18n-FFCA28?style=flat-square&logo=react&logoColor=black)](https://react.i18next.com/)
+[![Vitest](https://img.shields.io/badge/Vitest-646CFF?style=flat-square&logo=vitest&logoColor=white)](https://vitest.dev/)
+[![SonarCloud](https://img.shields.io/badge/SonarCloud-4D8CFF?style=flat-square&logo=sonarcloud&logoColor=white)](https://sonarcloud.io/)
+
+<br><br><br>
+
+## Boored: Find Your Next Fun Activity
 
 <a href='https://github.com/Luovtyrell/Prova-Frontend-Hackato-Barcelona' target='_blank'>
-  <img align='left' width='100px' src='https://i.postimg.cc/wBzyT6f1/Captura-de-pantalla-2024-10-17-a-las-11-11-19.png' alt='react boored img' />
+  <img align='left' width='120px' src='https://i.postimg.cc/wBzyT6f1/Captura-de-pantalla-2024-10-17-a-las-11-11-19.png' alt='react boored img' />
+</a> 
 
-- **[React-Boored GitHub Repo](https://github.com/Luovtyrell/Prova-Frontend-Hackato-Barcelona)**: Check out the source code on GitHub.
+![Static Badge](https://img.shields.io/badge/Boored-gray?style=for-the-badge&logo=github&label=Repository&link=https%3A%2F%2Fgithub.com%2FLuovtyrell%2FProva-Frontend-Hackato-Barcelona)
 
-
-| **Aspect**               | **Description**                                                                                                 |
-|--------------------------|-----------------------------------------------------------------------------------------------------------------|
-| **Project Overview**     | Boored is a responsive application that offers a variety of activities to do when bored, featuring a friendly and attractive interface. Users can filter activities by type, such as social, educational, charity, or cooking. This project serves as the technical assessment for the FrontEnd category of the Hackathon on October 22-23, 2024. |
-| **Key Technologies**     | React, PropTypes, Context Tailwind CSS, DaisyUI, Axios, React Router, Vite.                                             |
-
-
+Boored is a responsive application that offers a variety of activities to do when bored, featuring a friendly and attractive interface. Users can filter activities by type, such as social, educational, charity, or cooking. This project serves as the technical assessment for the FrontEnd category of the Hackathon on October 22-23, 2024.
 <br>
+
+[![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)](https://reactjs.org/)
+[![PropTypes](https://img.shields.io/badge/PropTypes-5A29E4?style=flat-square&logo=react&logoColor=white)](https://reactjs.org/docs/typechecking-with-proptypes.html)
+[![Context](https://img.shields.io/badge/Context-61DAFB?style=flat-square&logo=react&logoColor=black)](https://reactjs.org/docs/context.html)
+[![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)](https://tailwindcss.com/)
+[![DaisyUI](https://img.shields.io/badge/DaisyUI-0EABF0?style=flat-square&logoColor=white)](https://daisyui.com/)
+[![Axios](https://img.shields.io/badge/Axios-5A29E4?style=flat-square&logo=axios&logoColor=white)](https://axios-http.com/)
+[![React Router](https://img.shields.io/badge/React%20Router-CA4245?style=flat-square&logo=react-router&logoColor=white)](https://reactrouter.com/)
+[![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)](https://vitejs.dev/)
+
+
+<br><br><br><br>
 
 > [!NOTE]
 > 
@@ -139,7 +167,7 @@ Thanks to my 6 years of experience in the notarial sector, I have developed the 
 <p align="justify">
 
 ### TAKE ONE 🎬 - React movie tool recommender
->Lights, camera and match!
+![Takeone](https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&size=15&pause=1000&color=CF0E2C&width=435&lines=Lights%2C+camera+and+match!)
 
 **Take One** is an intelligent movie recommendation tool designed to suggest films based on your mood. This personal project allows users to find the perfect movie tailored to their emotional state.
 
@@ -164,7 +192,9 @@ Thanks to my 6 years of experience in the notarial sector, I have developed the 
 The ongoing development of Take One aims to enhance feature sets, improve the overall user experience, and maintain high code quality through best practices.
 </p>
 
-[TakeOne Repo](https://github.com/Luovtyrell/TakeOne-Movie-Recommender)
+### Check out the development of TakeOne 🍿
+
+![Static Badge](https://img.shields.io/badge/Take%20One%20%F0%9F%8E%AC-cf0e2c?style=for-the-badge&logo=github&label=Repository&labelColor=black&link=https%3A%2F%2Fgithub.com%2FLuovtyrell%2FTakeOne-Movie-Recommender)
 
 ---
 
@@ -207,11 +237,14 @@ Here are the links to the projects deployed on Vercel. Click on the project name
 
 <br>
 
+![bye](https://readme-typing-svg.herokuapp.com?font=Reenie+Beanie&size=30&pause=1000&color=FFCF02&width=435&lines=With+love%2C;Luc%C3%ADa+Ordo%C3%B1ez+Vilanova;Thank+you+for+your+time;%F0%9F%92%9B)
 
 ## 📧 Feel free to contact me
 <div>
 <a href="mailto:luciaorvilanova@gmail.com" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=fff&style=flat-square"  height="23" alt="Gmail" /></a> <a href="https://www.linkedin.com/in/luovtyrell" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=flat-square" height="23" alt="LinkedIn" /></a> <a href="https://t.me/luovtyrell" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Telegram-26A5E4?logo=telegram&logoColor=fff&style=flat-square" height="23" alt="Telegram" /></a> <a href="http://discordapp.com/users/664163194989707308" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=fff&style=flat-square" height="23" alt="Discord" /></a>
 </div>
+
+
 
 <h3 align="center">📌 Explore My Pinned Projects Below!</h3>
 <div align="center">
