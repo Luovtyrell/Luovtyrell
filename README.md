@@ -45,7 +45,6 @@ Thanks to my 6 years of experience in the notarial sector, I have developed the 
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=tailwind&theme=light"  alt="Tailwind"/></a>
 <a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=sass&theme=dark"  alt="SASS" /></a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=git&theme=dark"  alt="Git" /></a>
-<a href="https://www.npmjs.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=npm&theme=dark"alt="npm" /></a>
 <a href="https://jestjs.io/es-ES/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=jest&theme=dark"  alt="jest" /></a>
 <a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=vite&theme=light"  alt="vite" /></a>
 <a href="https://vitest.dev/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=vitest&theme=light"  alt="vitest" /></a>
