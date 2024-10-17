@@ -51,7 +51,6 @@ Thanks to my 6 years of experience in the notarial sector, I have developed the 
 <a href="https://vitest.dev/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=vitest&theme=light"  alt="vitest" /></a>
 <a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=redux&theme=light"  alt="redux" /></a>
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=firebase&theme=light"  alt="firebase" /></a>
-<a href="https://wordpress.com/es/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=wordpress&theme=light" alt="wordpress" /></a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=figma&theme=light" alt="figma" /></a>
 </div>
 
