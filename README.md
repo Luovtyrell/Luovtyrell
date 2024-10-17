@@ -57,14 +57,13 @@ Thanks to my 6 years of experience in the notarial sector, I have developed the 
 ### Star Wars
 
 <a href='https://github.com/Luovtyrell/Star-Wars.git' target='_blank'>
-  <img align='left' width='20%' src='https://i.postimg.cc/cdVRZwt9/Captura-de-pantalla-2024-09-07-a-las-11-54-15.png' alt='https://github.com/Luovtyrell/Star-Wars.git' />
+  <img align='left' width='120px' src='https://github.com/Luovtyrell/Star-Wars/blob/main/public/screenshots/7.png?raw=true' alt='react starwars' />
 </a>
-<br>
+
 
 - **[Star Wars GitHub Repo](https://github.com/Luovtyrell/Star-Wars.git)**: Check out the source code on GitHub.
 - **[Star Wars Web on Vercel](https://star-wars-kappa-sepia.vercel.app/)**: Visit the live Star Wars web application.
 
-<br><br>
 
 | **Aspect**               | **Description**                                                                                                 |
 |--------------------------|-----------------------------------------------------------------------------------------------------------------|
@@ -75,14 +74,12 @@ Thanks to my 6 years of experience in the notarial sector, I have developed the 
 
 ### Incorpode 
 
-<a href='https://github.com/Luovtyrell/Star-Wars.git' target='_blank'>
-  <img align='left' width='20%' src='https://i.postimg.cc/TRYbq0b4/Captura-de-pantalla-2024-09-07-a-las-11-23-59.png' alt='react incorpode app img' />
-
+<a href='https://github.com/Luovtyrell/React-incorpode' target='_blank'>
+  <img align='left' width='100px' src='https://i.postimg.cc/vTt2k8N5/Captura-de-pantalla-2024-09-04-a-las-20-24-08.png' alt='react incorpode app img' />
 
 - **[React-Incorpode GitHub Repo](https://github.com/Luovtyrell/React-incorpode)**: Check out the source code on GitHub.
 - **[React-Incorpode App on Vercel](https://react-incorpode.vercel.app/)**: Visit the live Star Wars web application.
 
-<br><br>
 
 | **Aspect**                 | **Description**                                     |
 |---------------------------|------------------------------------------------------|
@@ -93,19 +90,34 @@ Thanks to my 6 years of experience in the notarial sector, I have developed the 
 
 ### Budgets 
 
-<a href='https://github.com/Luovtyrell/Star-Wars.git' target='_blank'>
-  <img align='left' width='20%' src='https://i.postimg.cc/w9hKcczL/Captura-de-pantalla-2024-09-07-a-las-11-29-10.png' alt='react budgets web img' />
-
+<a href='https://github.com/Luovtyrell/React-budgets' target='_blank'>
+  <img align='left' width='150px' src='https://i.postimg.cc/0QdC2W0s/Captura-de-pantalla-2024-10-17-a-las-11-04-01.png' alt='react budgets web img' />
+  
 
 - **[React-Budgets GitHub Repo](https://github.com/Luovtyrell/React-budgets)**: Check out the source code on GitHub.
 - **[React-Budgets Incorpode App on Vercel](https://react-budgets-five.vercel.app/)**: Visit the live Star Wars web application.
 
-<br><br>
 
 | **Aspect**               | **Description**                                                                                                 |
 |--------------------------|-----------------------------------------------------------------------------------------------------------------|
 | **Project Overview**     | This React web application simplifies website budget calculations using checkboxes, input fields, and buttons to adjust the total price based on user selections.                                                                                                                                 |
 | **Key Technologies**     | React, Context, React Router, SWAPI, Bootstrap5, Protected Routes and custom hooks.                              |
+
+<br>
+
+### Boored 
+
+<a href='https://github.com/Luovtyrell/Prova-Frontend-Hackato-Barcelona' target='_blank'>
+  <img align='left' width='100px' src='https://i.postimg.cc/wBzyT6f1/Captura-de-pantalla-2024-10-17-a-las-11-11-19.png' alt='react boored img' />
+
+- **[React-Boored GitHub Repo](https://github.com/Luovtyrell/Prova-Frontend-Hackato-Barcelona)**: Check out the source code on GitHub.
+
+
+| **Aspect**               | **Description**                                                                                                 |
+|--------------------------|-----------------------------------------------------------------------------------------------------------------|
+| **Project Overview**     | Boored is a responsive application that offers a variety of activities to do when bored, featuring a friendly and attractive interface. Users can filter activities by type, such as social, educational, charity, or cooking. This project serves as the technical assessment for the FrontEnd category of the Hackathon on October 22-23, 2024. |
+| **Key Technologies**     | React, PropTypes, Context Tailwind CSS, DaisyUI, Axios, React Router, Vite.                                             |
+
 
 <br>
 
