@@ -7,7 +7,7 @@
 </div>
 
 <p align="justify">
-   <img align='right' src="https://i.postimg.cc/hjFQQGsJ/Captura-de-pantalla-2024-10-01-a-las-9-15-44.png" width="150" alt="VerdeByLuciaOrdoñez">
+   <img align='right' src="https://i.postimg.cc/7YLxqnCz/Captura-de-pantalla-2024-10-18-a-las-13-29-55.png" width="160" alt="cloudbylucia">
 I am an optimistic and diligent FrontEnd developer specializing in React and a UX/UI Design student, dedicated to staying up-to-date with the latest technologies. I consider myself organized, and my motto is to keep code as clean, SOLID, dynamic, and orderly as possible. Each day, I prioritize dedicating time to practice and refine my skills in the technologies I've already learned. My favorite language of all time is JavaScript. <br> <br>
 Thanks to my 6 years of experience in the notarial sector, I have developed the ability to work under pressure and pay great attention to detail, as there is no room for errors in that field. Despite the pressure, I always maintain a sense of joy and warmth.
 
