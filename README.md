@@ -37,7 +37,6 @@ Thanks to my years of experience in the notarial sector, I have developed the ab
 <a href="https://react.dev/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=react&theme=dark" height="40px" alt="React" /></a>
 <a href="https://ecma-international.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=js&theme=dark" height="40px" alt="JavaScript" /></a>
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=ts&theme=dark" height="40px" alt="TypeScript" /></a>
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=python&theme=light" height="40px" alt="python" /></a>
 <a href="https://html.spec.whatwg.org/multipage/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=html&theme=dark" height="40px" alt="HTML" /></a>
 <a href="https://www.w3.org/Style/CSS/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=css&theme=dark" height="40px" alt="CSS" /></a>
 <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=bootstrap&theme=light" height="40px" alt="Bootstrap"/></a>
