@@ -72,6 +72,7 @@ A responsive web application designed to help users efficiently manage and visua
 
 [![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)](https://reactjs.org/)
 [![Custom Hooks](https://img.shields.io/badge/Custom%20Hooks-61DAFB?style=flat-square&logo=react&logoColor=black)](https://reactjs.org/docs/hooks-custom.html)
+[![PropTypes](https://img.shields.io/badge/PropTypes-5A29E4?style=flat-square&logo=react&logoColor=white)](https://reactjs.org/docs/typechecking-with-proptypes.html)
 [![React Router](https://img.shields.io/badge/React%20Router-CA4245?style=flat-square&logo=react-router&logoColor=white)](https://reactrouter.com/)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
@@ -102,6 +103,7 @@ A website that allows registered users to explore a database of Star Wars starsh
 [![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)](https://reactjs.org/)
 [![Context API](https://img.shields.io/badge/Context%20API-61DAFB?style=flat-square&logo=react&logoColor=black)](https://reactjs.org/docs/context.html)
 [![Custom Hooks](https://img.shields.io/badge/Custom%20Hooks-61DAFB?style=flat-square&logo=react&logoColor=black)](https://reactjs.org/docs/hooks-custom.html)
+[![PropTypes](https://img.shields.io/badge/PropTypes-5A29E4?style=flat-square&logo=react&logoColor=white)](https://reactjs.org/docs/typechecking-with-proptypes.html)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 [![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)](https://tailwindcss.com/)
@@ -136,6 +138,7 @@ This React web application simplifies website budget calculations using checkbox
 [![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)](https://reactjs.org/)
 [![Context API](https://img.shields.io/badge/Context%20API-61DAFB?style=flat-square&logo=react&logoColor=black)](https://reactjs.org/docs/context.html)
 [![Custom Hooks](https://img.shields.io/badge/Custom%20Hooks-61DAFB?style=flat-square&logo=react&logoColor=black)](https://reactjs.org/docs/hooks-custom.html)
+[![PropTypes](https://img.shields.io/badge/PropTypes-5A29E4?style=flat-square&logo=react&logoColor=white)](https://reactjs.org/docs/typechecking-with-proptypes.html)
 [![React Router](https://img.shields.io/badge/React%20Router-CA4245?style=flat-square&logo=react-router&logoColor=white)](https://reactrouter.com/)
 [![Protected Routes](https://img.shields.io/badge/Protected%20Routes-FFCC00?style=flat-square&logo=react&logoColor=black)](https://reactrouter.com/en/main/route/protecting-routes)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -163,6 +166,7 @@ This app displays total expenses, today's expenses, percentage change, and weekl
 
 [![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)](https://reactjs.org/)
 [![Context](https://img.shields.io/badge/Context-61DAFB?style=flat-square&logo=react&logoColor=black)](https://reactjs.org/docs/context.html)
+[![PropTypes](https://img.shields.io/badge/PropTypes-5A29E4?style=flat-square&logo=react&logoColor=white)](https://reactjs.org/docs/typechecking-with-proptypes.html)
 [![i18n](https://img.shields.io/badge/i18n-FFCA28?style=flat-square&logo=react&logoColor=black)](https://react.i18next.com/)
 [![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)](https://tailwindcss.com/)
 [![Flowbite](https://img.shields.io/badge/Flowbite-0D6EFD?style=flat-square&logo=flowbite&logoColor=white)](https://flowbite.com/)
