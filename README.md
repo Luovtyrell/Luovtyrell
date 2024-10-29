@@ -56,6 +56,33 @@ Thanks to my years of experience in the notarial sector, I have developed the ab
 
 ## 🆕 My Latest React Projects
 
+## Personal Budget Assistant
+> Add transactions, track expense, set limits, download CSV
+
+<a href='https://github.com/Luovtyrell/Star-Wars.git' target='_blank'>
+  <img align='left' width='150px' src='https://i.postimg.cc/ryghsZYC/screencapture-personal-budget-assistant-vercel-app-2024-10-29-11-29-56.png' alt='react personal budget assistant' />
+</a> 
+
+[![GitHub Repo](https://img.shields.io/badge/Personal%20Budget%20Assistant-gray?style=for-the-badge&logo=github)](https://github.com/Luovtyrell/Personal-Budget-Assistant)
+[![Vercel Demo](https://img.shields.io/badge/Personal%20Budget%20live%20demo-black?style=for-the-badge&logo=vercel)](https://personal-budget-assistant.vercel.app/login)
+
+
+
+A responsive web application designed to help users efficiently manage and visualize their expenses. Developed during the NUWE and CaixaBank Tech Hackathon, this app provides a complete CRUD system for managing transactions and offers an intuitive, user-friendly experience<br>
+
+[![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)](https://reactjs.org/)
+[![Custom Hooks](https://img.shields.io/badge/Custom%20Hooks-61DAFB?style=flat-square&logo=react&logoColor=black)](https://reactjs.org/docs/hooks-custom.html)
+[![React Router](https://img.shields.io/badge/React%20Router-CA4245?style=flat-square&logo=react-router&logoColor=white)](https://reactrouter.com/)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![Material-UI](https://img.shields.io/badge/Material--UI-0081CB?style=flat-square&logo=mui&logoColor=white)
+![Recharts](https://img.shields.io/badge/Recharts-FF6384?style=flat-square&logo=recharts&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+
+
+
 ## Star Wars 
 >Database Explorer
 
@@ -70,16 +97,24 @@ Thanks to my years of experience in the notarial sector, I have developed the ab
 A website that allows registered users to explore a database of Star Wars starships, pilots, and films, using the SWAPI public API to fetch the information.                  
 <br>
 
+
 [![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)](https://reactjs.org/)
 [![Context API](https://img.shields.io/badge/Context%20API-61DAFB?style=flat-square&logo=react&logoColor=black)](https://reactjs.org/docs/context.html)
-[![Axios](https://img.shields.io/badge/Axios-5A29E4?style=flat-square&logo=axios&logoColor=white)](https://axios-http.com/)
-[![React Router](https://img.shields.io/badge/React%20Router-CA4245?style=flat-square&logo=react-router&logoColor=white)](https://reactrouter.com/)
-[![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)](https://firebase.google.com/)
-[![SWAPI](https://img.shields.io/badge/SWAPI-007D9C?style=flat-square&logo=star-wars&logoColor=white)](https://swapi.dev/)
+[![Custom Hooks](https://img.shields.io/badge/Custom%20Hooks-61DAFB?style=flat-square&logo=react&logoColor=black)](https://reactjs.org/docs/hooks-custom.html)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 [![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)](https://tailwindcss.com/)
 [![DaisyUI](https://img.shields.io/badge/DaisyUI-0EABF0?style=flat-square&logoColor=white)](https://daisyui.com/)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+[![React Router](https://img.shields.io/badge/React%20Router-CA4245?style=flat-square&logo=react-router&logoColor=white)](https://reactrouter.com/)
 [![Protected Routes](https://img.shields.io/badge/Protected%20Routes-FFCC00?style=flat-square&logo=react&logoColor=black)](https://reactrouter.com/en/main/route/protecting-routes)
-[![Custom Hooks](https://img.shields.io/badge/Custom%20Hooks-61DAFB?style=flat-square&logo=react&logoColor=black)](https://reactjs.org/docs/hooks-custom.html)
+[![Axios](https://img.shields.io/badge/Axios-5A29E4?style=flat-square&logo=axios&logoColor=white)](https://axios-http.com/)
+[![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)](https://firebase.google.com/)
+[![SWAPI](https://img.shields.io/badge/SWAPI-007D9C?style=flat-square&logo=star-wars&logoColor=white)](https://swapi.dev/)
+[![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)](https://vitejs.dev/)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+
 
 <br><br>
 
@@ -99,10 +134,15 @@ This React web application simplifies website budget calculations using checkbox
 
 [![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)](https://reactjs.org/)
 [![Context API](https://img.shields.io/badge/Context%20API-61DAFB?style=flat-square&logo=react&logoColor=black)](https://reactjs.org/docs/context.html)
-[![React Router](https://img.shields.io/badge/React%20Router-CA4245?style=flat-square&logo=react-router&logoColor=white)](https://reactrouter.com/)
-[![Bootstrap 5](https://img.shields.io/badge/Bootstrap%205-7952B3?style=flat-square&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
-[![Protected Routes](https://img.shields.io/badge/Protected%20Routes-FFCC00?style=flat-square&logo=react&logoColor=black)](https://reactrouter.com/en/main/route/protecting-routes)
 [![Custom Hooks](https://img.shields.io/badge/Custom%20Hooks-61DAFB?style=flat-square&logo=react&logoColor=black)](https://reactjs.org/docs/hooks-custom.html)
+[![React Router](https://img.shields.io/badge/React%20Router-CA4245?style=flat-square&logo=react-router&logoColor=white)](https://reactrouter.com/)
+[![Protected Routes](https://img.shields.io/badge/Protected%20Routes-FFCC00?style=flat-square&logo=react&logoColor=black)](https://reactrouter.com/en/main/route/protecting-routes)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+[![Bootstrap 5](https://img.shields.io/badge/Bootstrap%205-7952B3?style=flat-square&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+[![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)](https://vitejs.dev/)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
 
 <br><br>
 
@@ -119,14 +159,20 @@ This React web application simplifies website budget calculations using checkbox
 This app displays total expenses, today's expenses, percentage change, and weekly expense charts using Charts.js.                  
 <br>
 
+
 [![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)](https://reactjs.org/)
 [![Context](https://img.shields.io/badge/Context-61DAFB?style=flat-square&logo=react&logoColor=black)](https://reactjs.org/docs/context.html)
+[![i18n](https://img.shields.io/badge/i18n-FFCA28?style=flat-square&logo=react&logoColor=black)](https://react.i18next.com/)
 [![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)](https://tailwindcss.com/)
 [![Flowbite](https://img.shields.io/badge/Flowbite-0D6EFD?style=flat-square&logo=flowbite&logoColor=white)](https://flowbite.com/)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 [![Charts.js](https://img.shields.io/badge/Charts.js-FD3A10?style=flat-square&logo=chart.js&logoColor=white)](https://www.chartjs.org/)
-[![i18n](https://img.shields.io/badge/i18n-FFCA28?style=flat-square&logo=react&logoColor=black)](https://react.i18next.com/)
 [![Vitest](https://img.shields.io/badge/Vitest-646CFF?style=flat-square&logo=vitest&logoColor=white)](https://vitest.dev/)
 [![SonarCloud](https://img.shields.io/badge/SonarCloud-4D8CFF?style=flat-square&logo=sonarcloud&logoColor=white)](https://sonarcloud.io/)
+[![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)](https://vitejs.dev/)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
 
 <br><br><br>
 
@@ -145,11 +191,15 @@ Boored is a responsive application that offers a variety of activities to do whe
 [![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)](https://reactjs.org/)
 [![PropTypes](https://img.shields.io/badge/PropTypes-5A29E4?style=flat-square&logo=react&logoColor=white)](https://reactjs.org/docs/typechecking-with-proptypes.html)
 [![Context](https://img.shields.io/badge/Context-61DAFB?style=flat-square&logo=react&logoColor=black)](https://reactjs.org/docs/context.html)
+[![React Router](https://img.shields.io/badge/React%20Router-CA4245?style=flat-square&logo=react-router&logoColor=white)](https://reactrouter.com/)
 [![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)](https://tailwindcss.com/)
 [![DaisyUI](https://img.shields.io/badge/DaisyUI-0EABF0?style=flat-square&logoColor=white)](https://daisyui.com/)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 [![Axios](https://img.shields.io/badge/Axios-5A29E4?style=flat-square&logo=axios&logoColor=white)](https://axios-http.com/)
-[![React Router](https://img.shields.io/badge/React%20Router-CA4245?style=flat-square&logo=react-router&logoColor=white)](https://reactrouter.com/)
 [![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)](https://vitejs.dev/)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
 
 
 <br><br><br><br>
@@ -211,6 +261,7 @@ Here are the links to the projects deployed on Vercel. Click on the project name
 | **React Star Wars Web**   | [Visit React Star Wars Web](https://star-wars-kappa-sepia.vercel.app/) |
 | **React Budgets Web**     | [Visit React Budgets Web](https://react-budgets-five.vercel.app/) |
 | **React Incorpode**       | [Visit React Incorpode App](https://react-incorpode.vercel.app/) |
+| **React Personal Budget Assistant**       | [Visit React Personal Budget Assistant](https://personal-budget-assistant.vercel.app/login) |
 
 <br>
 
