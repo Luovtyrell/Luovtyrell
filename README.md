@@ -57,7 +57,7 @@ Thanks to my years of experience in the notarial sector, I have developed the ab
 ## 🆕 My Latest React Projects
 
 ## Personal Budget Assistant
-> Add transactions, track expense, set limits, download CSV
+> Add transactions, track expense, set limits, view charts, download CSV
 
 <a href='https://github.com/Luovtyrell/Personal-Budget-Assistant' target='_blank'>
   <img align='left' width='150px' src='https://i.postimg.cc/ryghsZYC/screencapture-personal-budget-assistant-vercel-app-2024-10-29-11-29-56.png' alt='react personal budget assistant' />
