@@ -39,6 +39,7 @@ Thanks to my years of experience in the notarial sector, I have developed the ab
 <a href="https://react.dev/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=react&theme=dark" height="40px" alt="React" /></a>
 <a href="https://ecma-international.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=js&theme=dark" height="40px" alt="JavaScript" /></a>
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=ts&theme=dark" height="40px" alt="TypeScript" /></a>
+  <a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=php&theme=light" height="40px" alt="php" /></a>
 <a href="https://html.spec.whatwg.org/multipage/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=html&theme=dark" height="40px" alt="HTML" /></a>
 <a href="https://www.w3.org/Style/CSS/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=css&theme=dark" height="40px" alt="CSS" /></a>
 <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=bootstrap&theme=light" height="40px" alt="Bootstrap"/></a>
@@ -48,13 +49,10 @@ Thanks to my years of experience in the notarial sector, I have developed the ab
 <a href="https://jestjs.io/es-ES/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=jest&theme=dark" height="40px" alt="jest" /></a>
 <a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=vite&theme=light" height="40px" alt="vite" /></a>
 <a href="https://vitest.dev/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=vitest&theme=light" height="40px" alt="vitest" /></a>
-<a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=redux&theme=light" height="40px" alt="redux" /></a>
-<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=firebase&theme=light" height="40px" alt="firebase" /></a>
-<a href="https://wordpress.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=wordpress&theme=light" height="40px" alt="WordPress" /></a>
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=figma&theme=light" height="40px" alt="figma" /></a>
-<a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=php&theme=light" height="40px" alt="php" /></a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=mysql&theme=dark" height="40px" alt="mysql" /></a>
 <a href="https://www.r-project.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=r&theme=dark" height="40px" alt="r" /></a>
+<a href="https://wordpress.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=wordpress&theme=light" height="40px" alt="WordPress" /></a>
+<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=figma&theme=light" height="40px" alt="figma" /></a>
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=vscode&theme=dark" height="40px" alt="vscode" /></a>
 </div>
 
