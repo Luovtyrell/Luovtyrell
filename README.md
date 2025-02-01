@@ -14,16 +14,15 @@ Thanks to my years of experience in the notarial sector, I have developed the ab
 <br><br>
 
 ## About Me:
-- 🌐 Currently studying User Design and Experience (UX/UI) with the Google scholarship through Fundae-SEPE on Coursera
-  - [Google UX/UIProgram](https://experienciafundae.es/beca-google/detalle/2552).
-- 🎓 I’ve just completed a 9-month, state-subsidized Front End Developer bootcamp at IT Academy - Barcelona Activa
-  - [IT Academy Barcelona Activa](https://www.barcelonactiva.cat/es/itacademy?utm_source=SEM&utm_medium=Cercadors&utm_content=SEM&utm_term=IT_ALU_es&utm_campaign=IT_Academy&gad_source=1&gclid=CjwKCAjwxY-3BhAuEiwAu7Y6syFM5PIGv2-gnMuu6rJPqIGikk7UlTNOrCLqizvByvt_H8ioUu34WhoCtv0QAvD_BwE).
 - 🚀 I have two jobs:
   - 💼 I'm currently working as FrontEnd developer and ux/ui designer at Universitat de Vic - Universitat Central de Catalunya. - Full time.
     -  [Universitat de Vic - Universitat Central de Catalunya](https://www.uvic.cat/). 
   - 💼 I'm currently working as FrontEnd developer at Teclatic. - Part time.
     -  [Teclatic](https://www.teclatic.com/).  
-
+- 🌐 Currently studying User Design and Experience (UX/UI) with the Google scholarship through Fundae-SEPE on Coursera
+  - [Google UX/UIProgram](https://experienciafundae.es/beca-google/detalle/2552).
+- 🎓 I’ve just completed a 9-month, state-subsidized Front End Developer bootcamp at IT Academy - Barcelona Activa
+  - [IT Academy Barcelona Activa](https://www.barcelonactiva.cat/es/itacademy?utm_source=SEM&utm_medium=Cercadors&utm_content=SEM&utm_term=IT_ALU_es&utm_campaign=IT_Academy&gad_source=1&gclid=CjwKCAjwxY-3BhAuEiwAu7Y6syFM5PIGv2-gnMuu6rJPqIGikk7UlTNOrCLqizvByvt_H8ioUu34WhoCtv0QAvD_BwE).
 
 ## Fun Facts:
 - 🏛️ Graduated in Political Science and Public Management from Universitat Autònoma de Barcelona (UAB).
