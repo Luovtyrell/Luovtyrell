@@ -19,10 +19,12 @@ Thanks to my years of experience in the notarial sector, I have developed the ab
 - 🎓 I’ve just completed a 9-month, state-subsidized Front End Developer bootcamp at IT Academy - Barcelona Activa
   - [IT Academy Barcelona Activa](https://www.barcelonactiva.cat/es/itacademy?utm_source=SEM&utm_medium=Cercadors&utm_content=SEM&utm_term=IT_ALU_es&utm_campaign=IT_Academy&gad_source=1&gclid=CjwKCAjwxY-3BhAuEiwAu7Y6syFM5PIGv2-gnMuu6rJPqIGikk7UlTNOrCLqizvByvt_H8ioUu34WhoCtv0QAvD_BwE).
 - 💼 I'm currently working as FrontEnd developer at Universitat de Vic - Universitat Central de Catalunya.
+  -  [Universitat de Vic - Universitat Central de Catalunya](https://www.uvic.cat/).
 
 
 ## Fun Facts:
-- 🏛️ Graduated in Political Science and Public Management from Universitat Autònoma de Barcelona (UAB)
+- 🏛️ Graduated in Political Science and Public Management from Universitat Autònoma de Barcelona (UAB).
+- 🏆 I took 1st place at the Marketplace Hackathon 2024, organized by Barcelona Activa and Mobile World Capital Barcelona.
 - 🧰 I put a lot of effort into writing clean code without redundancy and spend hours reading official documentation.
 - 🧩 I enjoy solving puzzles and coding challenges.
 - 🖼️ I enjoy Baroque art and architecture, especially Catalan Romanesque architecture.
