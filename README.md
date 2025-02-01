@@ -52,6 +52,10 @@ Thanks to my years of experience in the notarial sector, I have developed the ab
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=firebase&theme=light" height="40px" alt="firebase" /></a>
 <a href="https://wordpress.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=wordpress&theme=light" height="40px" alt="WordPress" /></a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=figma&theme=light" height="40px" alt="figma" /></a>
+<a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=php&theme=light" height="40px" alt="php" /></a>
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=mysql&theme=dark" height="40px" alt="mysql" /></a>
+<a href="https://www.r-project.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=r&theme=dark" height="40px" alt="r" /></a>
+<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=vscode&theme=dark" height="40px" alt="vscode" /></a>
 </div>
 
 <br><br>
