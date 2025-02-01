@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://i.postimg.cc/rpjnyxRd/Captura-de-pantalla-2024-10-18-a-las-13-33-57.png" alt="headerByLuciaOrdoñez">
   
-![hi](https://readme-typing-svg.demolab.com?font=Reenie+Beanie&size=50&duration=4996&pause=1000&color=FFCD00&center=true&vCenter=true&width=435&lines=FrontEnd+Developer;UX%2FUI+Student)
+![hi](https://readme-typing-svg.demolab.com?font=Reenie+Beanie&size=50&duration=4996&pause=1000&color=FFCD00&center=true&vCenter=true&width=435&lines=FrontEnd+Developer;UX%2FUI+Designer)
 
 </div>
 
