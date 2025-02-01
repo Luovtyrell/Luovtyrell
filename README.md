@@ -193,6 +193,7 @@ This app displays total expenses, today's expenses, percentage change, and weekl
 </a> 
 
 [![GitHub Repo](https://img.shields.io/badge/Boored%20Repo-gray?style=for-the-badge&logo=github)](https://github.com/Luovtyrell/Prova-Frontend-Hackato-Barcelona)
+[![Vercel Demo](https://img.shields.io/badge/Boored%20live%20demo-black?style=for-the-badge&logo=vercel)](https://bored-lucia-ordonez-vilanova.vercel.app/)
 
 Boored is a responsive application that offers a variety of activities to do when bored, featuring a friendly and attractive interface. Users can filter activities by type, such as social, educational, charity, or cooking. This project serves as the technical assessment for the FrontEnd category of the Hackathon on October 22-23, 2024.
 <br>
