@@ -15,9 +15,9 @@ Thanks to my years of experience in the notarial sector, I have developed the ab
 
 ## About Me:
 - 🚀 I have two jobs:
-  - 💼 I'm currently working as FrontEnd developer and ux/ui designer at Universitat de Vic - Universitat Central de Catalunya. - Full time.
+  - 💼 I'm currently working as FrontEnd developer and UX/UI designer at Universitat de Vic - Universitat Central de Catalunya. - Full time.
     -  [Universitat de Vic - Universitat Central de Catalunya](https://www.uvic.cat/). 
-  - 💼 I'm currently working as FrontEnd developer at Teclatic. - Part time.
+  - 💼 I'm currently working as UX designer at Teclatic. - Part time.
     -  [Teclatic](https://www.teclatic.com/).  
 - 🌐 Currently studying User Design and Experience (UX/UI) with the Google scholarship through Fundae-SEPE on Coursera
   - [Google UX/UIProgram](https://experienciafundae.es/beca-google/detalle/2552).
