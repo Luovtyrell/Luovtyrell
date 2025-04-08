@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.postimg.cc/rpjnyxRd/Captura-de-pantalla-2024-10-18-a-las-13-33-57.png" alt="headerByLuciaOrdoñez">
+  <img src="https://github.com/user-attachments/assets/55303e8c-05a5-4bab-8458-e84243f5af25" alt="headerByLuciaOrdoñez">
   
 ![hi](https://readme-typing-svg.demolab.com?font=Reenie+Beanie&size=50&duration=4996&pause=1000&color=FFCD00&center=true&vCenter=true&width=435&lines=FrontEnd+Developer;UX%2FUI+Designer)
 
