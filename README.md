@@ -1,5 +1,6 @@
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/55303e8c-05a5-4bab-8458-e84243f5af25" alt="headerByLuciaOrdoñez">
+  <img src="https://github.com/user-attachments/assets/465e4bab-9f33-4694-80c7-ed905bb1c2a1" alt="headerByLuciaOrdoñez">
+
   
 ![hi](https://readme-typing-svg.demolab.com?font=Reenie+Beanie&size=50&duration=4996&pause=1000&color=FFCD00&center=true&vCenter=true&width=435&lines=FrontEnd+Developer;UX%2FUI+Designer)
 
