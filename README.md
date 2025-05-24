@@ -227,7 +227,7 @@ Boored is a responsive application that offers a variety of activities to do whe
 
 # 🚧 CURRENTLY WORKING ON ... 🚧
 
- <img align='right' src="https://i.imghippo.com/files/6Omnd1727875746.png" width="420" alt="poster app designed by Lucía Ordoñez">
+ <img align='right' src="https://i.postimg.cc/jKwd3YDN/Simple-Red-Website-Sales-I-nstagram-Story.png" width="420" alt="poster app designed by Lucía Ordoñez">
 
 <p align="justify">
 
