@@ -1,13 +1,13 @@
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/465e4bab-9f33-4694-80c7-ed905bb1c2a1" alt="headerByLuciaOrdoñez">
+  <img src="https://media.licdn.com/dms/image/v2/D4D16AQEUW4Dcu-CYRQ/profile-displaybackgroundimage-shrink_350_1400/B4DZqd6TI4KQAc-/0/1763585897906?e=1765411200&v=beta&t=3cFb6MY5Xw6q36Bd-8U7wGpwVLv72SWfTz9MVbKC7S8" alt="headerByLuciaOrdoñez">
 
   
-![hi](https://readme-typing-svg.demolab.com?font=Reenie+Beanie&size=50&duration=4996&pause=1000&color=FFCD00&center=true&vCenter=true&width=435&lines=FrontEnd+Developer;UX%2FUI+Designer)
+[![HI](https://readme-typing-svg.demolab.com?font=Reenie+Beanie&size=50&pause=1000&color=FFA925&center=true&vCenter=true&width=435&lines=Innovation;Clean+Code;UX+Research)](https://git.io/typing-svg)
 
 </div>
 
 <p align="justify">
-   <img align='right' src="https://i.postimg.cc/7YLxqnCz/Captura-de-pantalla-2024-10-18-a-las-13-29-55.png" width="160" alt="cloudbylucia">
+   <img align='right' src="https://i.ibb.co/NgdZ53ZX/LUCIA-AND-TOTORO.png" width="160" alt="luciaTotoro">
 I am <a href="https://www.linkedin.com/in/luovtyrell/">Lucía</a>, an optimistic and diligent FrontEnd developer specializing in React and a UX/UI Designer, dedicated to staying up-to-date with the latest technologies. I consider myself organized, and my motto is to keep code as clean, SOLID, dynamic, and orderly as possible. Each day, I prioritize dedicating time to practice and refine my skills in the technologies I've already learned. My favorite language of all time is JavaScript. <br> <br>
 Thanks to my years of experience in the notarial sector, I have developed the ability to work under pressure and pay great attention to detail, as there is no room for errors in that field. Despite the pressure, I always maintain a sense of joy and warmth.
 
@@ -225,9 +225,9 @@ Boored is a responsive application that offers a variety of activities to do whe
 
 ---
 
-# 🚧 CURRENTLY WORKING ON ... 🚧
+# 🚧 WORKING ON ... 🚧
 
- <img align='right' src="https://i.postimg.cc/jKwd3YDN/Simple-Red-Website-Sales-I-nstagram-Story.png" width="420" alt="poster app designed by Lucía Ordoñez">
+ <img align='right' src="https://i.postimg.cc/JnGS7s8z/Captura-de-pantalla-2025-11-19-a-las-22-32-53.png" alt="poster app designed by Lucía Ordoñez">
 
 <p align="justify">
 
@@ -275,6 +275,8 @@ Here are the links to the projects deployed on Vercel. Click on the project name
 | **React Budgets Web**     | [Visit React Budgets Web](https://react-budgets-five.vercel.app/) |
 | **React Incorpode**       | [Visit React Incorpode App](https://react-incorpode.vercel.app/) |
 | **React Personal Budget Assistant**       | [Visit React Personal Budget Assistant](https://personal-budget-assistant.vercel.app/login) |
+| **React Take One movie recommender**       | [Visit React Take One](https://take-one-movie-recommender.vercel.app/movie/496243) |
+
 
 <br>
 
@@ -303,7 +305,7 @@ Here are the links to the projects deployed on Vercel. Click on the project name
 
 <br>
 
-![bye](https://readme-typing-svg.herokuapp.com?font=Reenie+Beanie&size=30&pause=1000&color=FFCF02&width=435&lines=With+love%2C;Luc%C3%ADa+Ordo%C3%B1ez+Vilanova;Thank+you+for+your+time;%F0%9F%92%9B)
+![bye](https://readme-typing-svg.herokuapp.com?font=Reenie+Beanie&size=30&pause=1000&color=FFA925&width=435&lines=With+love%2C;Luc%C3%ADa+Ordo%C3%B1ez+Vilanova;Thank+you+for+your+time;%F0%9F%92%9B)
 
 ## 📧 Feel free to contact me
 <div>
