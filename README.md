@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.licdn.com/dms/image/v2/D4D16AQEUW4Dcu-CYRQ/profile-displaybackgroundimage-shrink_350_1400/B4DZqd6TI4KQAc-/0/1763585897906?e=1765411200&v=beta&t=3cFb6MY5Xw6q36Bd-8U7wGpwVLv72SWfTz9MVbKC7S8" alt="headerByLuciaOrdoñez">
+  <img src="https://i.postimg.cc/pVMBL9R6/HEADER-(3).png" alt="headerByLuciaOrdoñez">
 
   
 [![HI](https://readme-typing-svg.demolab.com?font=Reenie+Beanie&size=50&pause=1000&color=FFA925&center=true&vCenter=true&width=435&lines=Innovation;Clean+Code;UX+Research)](https://git.io/typing-svg)
