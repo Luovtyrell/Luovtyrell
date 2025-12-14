@@ -308,34 +308,13 @@ Here are the links to the projects deployed on Vercel. Click on the project name
 | **React Incorpode**       | [Visit React Incorpode App](https://react-incorpode.vercel.app/) |
 | **React Personal Budget Assistant**       | [Visit React Personal Budget Assistant](https://personal-budget-assistant.vercel.app/login) |
 | **React Take One movie recommender**       | [Visit React Take One](https://take-one-movie-recommender.vercel.app/movie/496243) |
+| **Alex Lopez, PhD landingpage**       | [Visit Alex Lopez PhD](https://alex-lopez-phd.vercel.app/) |
 
 
 <br>
-
-## 📊 Stats
-<table align="center">
-  <tr>
-    <td align="center">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Luovtyrell&theme=onedark&include_all_commits=true" width="700"/>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Luovtyrell&theme=onedark&include_all_commits=true&" width="300"/>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luovtyrell&langs_count=8&layout=donut&theme=onedark&hide_border=true&include_all_commits=true" width="285"/>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
       
-![Visitors](https://api.visitorbadge.io/api/daily?path=https%3A%2F%2Fgithub.com%2FLuovtyrell%2FLuovtyrell%2F&label=Daily%20visitors&labelColor=%23282c34&countColor=%23e4c07b)
   
-  </td>
-  </tr>
-</table>              
-                                        
-
-<br>
+![Visitors](https://api.visitorbadge.io/api/daily?path=https%3A%2F%2Fgithub.com%2FLuovtyrell%2FLuovtyrell%2F&label=Daily%20visitors&labelColor=%23282c34&countColor=%23e4c07b)
 
 ![bye](https://readme-typing-svg.herokuapp.com?font=Reenie+Beanie&size=30&pause=1000&color=FFA925&width=435&lines=With+love%2C;Luc%C3%ADa+Ordo%C3%B1ez+Vilanova;Thank+you+for+your+time;%F0%9F%92%9B)
 
