@@ -63,6 +63,36 @@ Thanks to my years of experience in the notarial sector, I have developed the ab
 
 ## 🆕 My Latest React Projects
 
+
+## Alex Lopez PHD landing page:
+> Professional landing page designed by me
+
+<a href='https://github.com/Luovtyrell/AlexLopezPHD' target='_blank'>
+  <img align='left' width='500px' src='https://iili.io/fYtVjf9.png' alt='landing alex lopez phd landing' />
+</a> 
+
+[![GitHub Repo](https://img.shields.io/badge/Budgets%20Repo-gray?style=for-the-badge&logo=github)](https://github.com/Luovtyrell/AlexLopezPHD)
+[![Vercel Demo](https://img.shields.io/badge/Budgets%20live%20demo-black?style=for-the-badge&logo=vercel)](https://alex-lopez-phd.vercel.app/)
+
+
+A modern, responsive academic portfolio and landing page designed by me showcasing research, publications, conferences, and projects for Alex Lopez, PhD.
+<br>
+
+[![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)](https://reactjs.org/)
+[![React Router](https://img.shields.io/badge/React%20Router-CA4245?style=flat-square&logo=react-router&logoColor=white)](https://reactrouter.com/)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+[![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)](https://tailwindcss.com/)
+[![DaisyUI](https://img.shields.io/badge/DaisyUI-0EABF0?style=flat-square&logoColor=white)](https://daisyui.com/)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+[![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)](https://vitejs.dev/)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+
+
+<br><br><br>
+
+
+
 ## Personal Budget Assistant
 > Add transactions, track expense, set limits, view charts, download CSV
 
@@ -90,6 +120,7 @@ A responsive web application designed to help users efficiently manage and visua
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
 
+<br><br><br>
 
 
 ## Star Wars 
@@ -125,8 +156,8 @@ A website that allows registered users to explore a database of Star Wars starsh
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
 
+<br><br><br>
 
-<br><br>
 
 ## Budgets:
 > Interactive Planning, Calculation Tool & Filtering
@@ -155,7 +186,8 @@ This React web application simplifies website budget calculations using checkbox
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
 
-<br><br>
+<br><br><br>
+
 
 ## Incorpode
 >Expense Tracker with Interactive Charts
